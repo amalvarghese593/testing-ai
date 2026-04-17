@@ -1,3 +1,6 @@
+let x = "hello"; // Type: string
+const y = "hello"; // Type: "hello" (literal type)
+
 type Job = "dev" | "tester"; // -> Type alias
 // This is a kind of type declaration, not a type annotation.
 // Type alias is a subset of type declaration.
@@ -112,4 +115,170 @@ let count = 10; // TypeScript infers 'count' is a number
 city = 123; // ❌ Error: Type 'number' is not assignable to type 'string'
 
 // 4. Enums
-// Enums (short for "enumerations") let you define a set of named constants. Useful for representing a fixed set of options.
+// Enums define a set of named constants — a fixed group of related values.
+
+// 1. Numeric enums (default)
+// Values auto-increment from 0:
+enum Direction {
+  Up, // 0
+  Down, // 1
+  Left, // 2
+  Right, // 3
+}
+let d = Direction.Up; // 0
+let dir = Direction[0]; // "Up" (reverse mapping)
+// You can set a custom start:
+enum Status {
+  Active = 1,
+  Inactive, // 2 (auto-increments from 1)
+  Pending = 10,
+  loading, // 11 (auto-increments from 10)
+}
+enum Code {
+  A, // 0
+  B, // 1
+  C = 100, // 100
+  D, // 101 (auto-increments from 100)
+  E = 1, // 1  ← same as B! (allowed but dangerous)
+}
+// What happens with duplicate values in reverse mapping?
+Code[1]; // "E" — last one wins! (B was also 1, but E overwrites it)
+// What about reverse mapping a value that no key has?
+Code[999]; // undefined (no error at runtime, just undefined)
+
+// 2. String enums
+// Each member must be explicitly initialized:
+enum Color {
+  Red = "RED",
+  Green = "GREEN",
+  Blue = "BLUE",
+}
+let c = Color.Red; // "RED"
+// 3. Heterogeneous enums (mixed — not recommended)
+enum Mixed {
+  No = 0,
+  Yes = "YES",
+}
+// 4. const enum — inlined at compile time
+const enum Size {
+  Small,
+  Medium,
+  Large,
+}
+let s = Size.Medium;
+// Compiles to: let s = 1;  (no enum object at runtime)
+// More performant but no reverse mapping and no runtime enum object.
+
+// Enum vs Union type
+// An alternative to enums is a union of string literals:
+// Enum
+enum Job {
+  Dev = "dev",
+  Tester = "tester",
+}
+// Union type (no runtime cost)
+type Job = "dev" | "tester";
+
+// An enum can be iterated over
+// Iterable	Yes (Object.values(Job))
+
+// IMPORTANT;
+// Common preference: Use string unions for simple cases, enums when you need runtime access to the values (e.g., iterating over all options).
+
+// 1. Type of d in let d = Direction.Up
+// The inferred type is Direction, not number.
+let d = Direction.Up;
+// Type: Direction (specifically Direction.Up if const)
+d = 0; //(special case)
+d = 5; //❌ Error, only 0 can be assigned as value other than the enum
+d = Direction.Down; // ✅ OK
+
+// 3. Does reassigning a numeric enum with a number throw a compile error?
+// No. This is the loosely-typed quirk:
+enum Direction {
+  Up,
+  Down,
+  Left,
+  Right,
+}
+let d: Direction = 99; // ✅ No error (any number is accepted)
+d = -1; // ✅ No error
+d = 3.14; // ✅ No error
+
+// const enum explained
+// A regular enum creates a runtime object in JavaScript:
+// TypeScript
+enum Direction {
+  Up,
+  Down,
+}
+let d = Direction.Up;
+
+// Compiled JS — runtime object exists
+var Direction;
+(function (Direction) {
+  Direction[(Direction["Up"] = 0)] = "Up";
+  Direction[(Direction["Down"] = 1)] = "Down";
+})(Direction || (Direction = {}));
+var d = Direction.Up; // looks up the object
+
+// A const enum is erased entirely — values are inlined:
+// TypeScript
+const enum Direction {
+  Up,
+  Down,
+}
+let d = Direction.Up;
+
+// Compiled JS — no runtime object, just the value
+var d = 0; // that's it!
+
+// Can you have const string enums?
+// Yes:
+const enum Color {
+  Red = "RED",
+  Green = "GREEN",
+  Blue = "BLUE",
+}
+let c = Color.Red;
+
+// Compiled JS:
+var c = "RED"; // inlined, no runtime object
+
+// Dynamic access in enums
+// Dynamic access means using a variable (not a hardcoded member name) to look up an enum value:
+enum Color {
+  Red = "RED",
+  Green = "GREEN",
+  Blue = "BLUE",
+}
+// Static access (hardcoded) — always works
+let c = Color.Red; // "RED"
+// Dynamic access (variable key) — needs runtime object
+const key = "Green";
+let c2 = Color[key]; // "GREEN"
+
+// Iterating all values (e.g., for a dropdown) --> Not possible in const enums
+const options = Object.values(Color); // ["RED", "GREEN", "BLUE"]
+
+const enum Color {
+  Red = "RED",
+  Green = "GREEN",
+  Blue = "BLUE",
+}
+Object.values(Color); // ❌ Error: 'const' enums can only be used in property access
+const key = "Red";
+Color[key]; // ❌ Error
+
+// 1. How to run a TS file and see console.log
+// Option A: tsx (simplest, no config needed)
+// npx tsx types.ts
+// Option B: ts-node
+// npx ts-node types.ts
+// Option C: Compile then run
+// npx tsc types.ts     # creates types.js
+// node types.js         # run the JS
+// tsx is the easiest — zero config, fast.
+
+// 5. Structural Typing
+// Structural typing means that TypeScript checks the "shape" (structure) of types, not their explicit names.
