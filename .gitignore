@@ -1,2 +1,4 @@
 node_modules
 **/mcp.json
+.vscode/mcp.json
+.vscode
