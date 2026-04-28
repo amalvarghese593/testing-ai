@@ -1,8 +1,12 @@
 name: my-dummy-workflow
-on: push
+on: [push]
 jobs:
-  test job:
-    - name: install dependencies
-      run: npm ci
-    - name: run tests
-      run: npm run test
+  test-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: clone repo to RUNNER
+        uses: actions/checkout@v4
+      - name: install dependencies
+        run: npm ci
+      - name: run tests
+        run: npm run test
