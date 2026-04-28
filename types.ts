@@ -183,7 +183,8 @@ type Job = "dev" | "tester";
 // Iterable	Yes (Object.values(Job))
 
 // IMPORTANT;
-// Common preference: Use string unions for simple cases, enums when you need runtime access to the values (e.g., iterating over all options).
+// Common preference: Use string unions for simple cases, enums when you need runtime access to the values
+// (Ex: iterating over all options, Dynamic access const myJob="Dev"; Job[myJob]).
 
 // 1. Type of d in let d = Direction.Up
 // The inferred type is Direction, not number.
@@ -282,3 +283,71 @@ Color[key]; // ❌ Error
 
 // 5. Structural Typing
 // Structural typing means that TypeScript checks the "shape" (structure) of types, not their explicit names.
+interface Dog {
+  name: string;
+  breed: string;
+}
+interface Pet {
+  name: string;
+  breed: string;
+}
+const dog: Dog = { name: "Rex", breed: "Lab" };
+const pet: Pet = dog; // ✅ Works — same shape, different names
+// Key points:
+// Two types are compatible if they have the same properties and types, regardless of their names.
+// A type with more properties is assignable to one with fewer (excess properties are allowed when assigning variables, not object literals).
+const pet2: Pet = { name: "Rex", breed: "Lab", age: 5 }; // ❌ Error — excess 'age'
+const pet4: Pet = { name: "Rex", breed: "Lab", age: 5 } as Pet; // ✅ Allowed due to type assertion
+// When you assign an object literal directly to a variable with a type, TypeScript checks for excess properties.
+const obj = { name: "Rex", breed: "Lab", age: 5 };
+const pet3: Pet = obj; // ✅ Works — no excess check on variables
+// Both pet2, pet3 satisfy structural typing because both contains all properties in Pet interface.
+// But error is thrown because of excess property checking. Excess property checking does not apply to variable assignments but only to object literals.
+function makePerson(): Pet {
+  const res = { name: "Eve", breed: "Lab", age: 22 };
+  return res; // ✅ Allowed
+}
+function makePerson2(): Pet {
+  return { name: "Eve", breed: "Lab", age: 22 }; // ❌ Error
+}
+function greet(p: Person) {
+  /* ... */
+}
+greet({ name: "Bob", age: 25 }); // ❌ Error (direct object literal, excess property check)
+const someone = { name: "Bob", age: 25 };
+greet(someone); // ✅ Allowed
+
+// IMPORTANT: Object literal may only specify known properties(ie properties defined in type)
+// If we want to allow extra properties in object literal we need to use TYPE ASSERTION (as keyword)
+const data3: Pet = { name: "Max", breed: "Lab", age: "1" } as Pet; // ✅ Allowed
+
+class Dog1 {
+  name: string = "";
+}
+class Cat {
+  name: string = "";
+}
+let d3: Dog1 = new Cat(); // ✅ Allowed (same structure)
+
+// Type Assertion (as keyword) -- Overlap needed bw 2 types(One has to be subset of the other. Just intersection like in Venn diagram not allowed)
+// It tells TypeScript: "Trust me, I know the type."
+// It does not change the runtime value or do any type conversion—it only affects how TypeScript checks your code.
+// It’s a way to override TypeScript’s inferred type for a variable or expression.
+// You use it when you know more about the type than TypeScript does.
+// It’s similar to type casting in other languages, but it doesn’t actually convert the value.
+// You still need the required properties if excess properties are present. Overlap needed bw 2 types
+const data: Pet = { name: "Max" } as Pet; // ✅ Allowed (required property NOT present. overlap present bw 2 types)
+const data: Pet = { name: "Max", breed: "asa", age: "1" } as Pet; // ✅ Allowed (All required properties are present, also extra property present. overlap present bw 2 types)
+const data: Pet = { name: "Max", age: "1" } as Pet; // ❌ Error (required property NOT present but extra property present. No overlap present bw 2 types)
+const data: Pet = { name: "Max", age: "1" } as unknown as Pet; // ✅ Allowed
+
+// When to Use Type Assertion ?
+// When you get data from a source with an unknown type (like any or from JSON).
+// When you know the type better than TypeScript (e.g., DOM elements, API responses).
+const input = document.getElementById("myInput") as HTMLInputElement;
+input.value = "TypeScript!";
+// Here, TypeScript only knows input is an HTMLElement, but you assert it’s an HTMLInputElement to access .value.
+
+// Important Notes
+// No runtime effect: Type assertion only affects compile-time checks.
+// Be careful: If you assert the wrong type, you might get runtime errors.

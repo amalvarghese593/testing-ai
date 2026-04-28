@@ -1,12 +1,6 @@
-enum Color {
-  Red = "RED",
-  Green = "GREEN",
-  Blue = "BLUE",
+interface Pet {
+  name: string;
+  breed: string;
 }
-
-// Static access (hardcoded) — always works
-let c = Color.Red; // "RED"
-
-// Dynamic access (variable key) — needs runtime object
-const key = "Green";
-let c2 = Color[key]; // "GREEN"
+const dss = { name: "Max" };
+const data: Pet = dss as Pet;
