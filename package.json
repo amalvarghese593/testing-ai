@@ -1,0 +1,24 @@
+{
+  "name": "testing-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dummy.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalvarghese593/testing-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amalvarghese593/testing-ai/issues"
+  },
+  "homepage": "https://github.com/amalvarghese593/testing-ai#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
