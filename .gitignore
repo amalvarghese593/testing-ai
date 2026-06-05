@@ -2,3 +2,11 @@ node_modules
 **/mcp.json
 .vscode/mcp.json
 .vscode
+.DS_Store
+**/.DS_Store
+.env
+**/.env
+.push-batches/
+.push-batch.mjs
+.push-batch-export.mjs
+.push-export-all.mjs
