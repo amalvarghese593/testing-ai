@@ -10,3 +10,5 @@ node_modules
 .push-batch.mjs
 .push-batch-export.mjs
 .push-export-all.mjs
+.push-all.mjs
+.push-via-api.mjs

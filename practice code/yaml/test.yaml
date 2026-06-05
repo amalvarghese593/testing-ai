@@ -1,2 +1,45 @@
 ---
 name: amal-varghese
+name2: "amal-varghese \n" # or single quotes
+first name: amal
+age: 33
+version: 1.5
+address: &permanent-address # anchor
+  city: sulthan bathery # anchor content
+  district: wayanad
+  pin-code: 673592
+residential address: *permanent-address #alias
+hobbies:
+  - trekking
+  - swimming
+  - cycling
+  - 123
+same as: [trekking, swimming, cycling, 123]
+array of objs:
+  - job: dev
+    name: john
+  - job: tester
+    name: praveen
+  - name: biju
+array of objs: # duplicate keys cant be used. invalid yaml
+- job: dev #  Because the - counts as indentation, you can also write it like this without spaces
+  name: john
+- job: tester
+  name: praveen
+- name: biju
+
+2d array:
+  - - 1
+    - 2
+  - - 3
+    - 4
+Same as:
+  - [1, 2]
+  - [3, 4] # flow style
+same as below: [[1,2],[3,4]]
+
+
+---
+description: starting new doc in same file (multiple docs)
+no value:
+above value is same as: null

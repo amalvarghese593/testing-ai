@@ -1,0 +1,2823 @@
+[
+  {
+    "sourcecode": "A00000KMKV",
+    "iacode": "SJH",
+    "productId": "078",
+    "expiry_dt": "2019-02-23",
+    "spid_cd": "TZ3",
+    "pmcCode": "784",
+    "truePmcCode": "784",
+    "shortName": "premier-rewards-gold",
+    "cardDetailShortName": "premier-rewards-gold",
+    "assetShortName": "premier-rewards-gold",
+    "cardHeadline": "Premier Rewards Gold Card",
+    "filter": {
+      "type": "charge",
+      "partners": "",
+      "rewards": [
+        "travel-rewards",
+        "reward-points"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "no-foreign-transaction-fee"
+      ]
+    },
+    "filters": [
+      "charge",
+      "rewards",
+      "travel-rewards",
+      "reward-points",
+      "annual-fee",
+      "no-foreign-transaction-fee"
+    ],
+    "regzBoxOffsiteEEP": [
+      "28000"
+    ],
+    "suppProductName": "premier-rewards-gold-card",
+    "productName": "premier-rewards-gold-card",
+    "UPGD_ELIG_PMCS": [
+      "137"
+    ],
+    "similarCards": [
+      "137",
+      "158"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "137",
+    "entryEEP": "36189",
+    "eepXSell": "36182",
+    "cardType": "UPGR",
+    "applyNowLink": {
+      "title": "Request an Upgrade for the Premier Rewards Gold Card",
+      "link": "Request an Upgrade",
+      "dtmTag": "Upgrade",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/premier-rewards-gold-card/36189?pmccode=784",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/PRG/25330?pmccode=784"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Premier Rewards Gold Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/premier-rewards-gold-card/36189",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/PRG/25330"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/premier-rewards-gold-card/36189",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/PRG/25330"
+      }
+    },
+    "sortPriority": 3,
+    "rates": {
+      "header": "No Interest Charges",
+      "text": "No interest charges because you pay your balance in full each month.‡¤"
+    },
+    "cardFlags": [],
+    "dtmProductName": "PRG",
+    "cardTitle": "American Express Premier Rewards Gold Card",
+    "dtwHeadline": "You're invited to apply for our most rewarding Gold Card.",
+    "dtwBenefitHeadline": "You can multiply points with the Premier Rewards Gold Card.",
+    "dtwBenefitSubHeadline": "",
+    "superHighlightImgAlt": "Plan more roadtrips and enjoy gas rewards from the PRG Card from American Express. ",
+    "keyFeaturesHeadline": "Go, travel, taste, and see.",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "The annual fee for the Premier Reward Gold Card is $195 for the Basic Card and $0 for up to 5 Additional Cards. The annual fee for the sixth or more Additional Card is $35 for each Card.<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/premier-rewards-gold.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/l-desktop/premier-rewards-gold-card- heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/1x/premier-rewards-gold-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/2x/premier-rewards-gold-card-heroimage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/1x/premier-rewards-gold-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/2x/premier-rewards-gold-card-heroimage-2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "017"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36189",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "shopping": {
+        "header": "Did Your Warranty Run Out&#63;",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer's warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer's warranty of 5 years or less.<sup>1</sup><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "travel": {
+        "header": "NO FOREIGN TRANSACTION FEES<sup>&#164;</sup>",
+        "toutId": "NoFXFeesIcon",
+        "description": "Enjoy every trip abroad with no foreign transaction fees from American Express with the Premier Rewards Gold Card.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>&curren;"
+      },
+      "reward": {
+        "toutId": "3XUpPoints",
+        "description": "3X points for airfare purchased directly from airlines.<span class=\"breakLine\"></span>2X points at US restaurants, US gas stations, and US supermarkets.<span class=\"breakLine\"></span>1X points on other purchases.<span class=\"breakLine\"></span>Terms and Limitations Apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "featured": {
+        "header": "Membership Rewards<sup>&#174;</sup> Program",
+        "toutId": "MRProgram",
+        "description": "Membership Rewards<sup>&#174;</sup> program - use points for rewards from over 500 leading brands in travel, gift cards, merchandise, or entertainment. You can transfer points to our selection of frequent traveler programs.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "Earn 3X points for flights booked directly with airlines.<br/>Terms and limitations apply. <sup>&#8225;</sup>",
+        "header": "3X Points",
+        "order": 1,
+        "toutId": "3XPoints"
+      },
+      {
+        "description": "2X points at US restaurants, US gas stations and at US supermarkets. 1X points on other purchases.Terms and limitations apply.<sup>&#8225;</sup>",
+        "header": "2X Points",
+        "order": 2,
+        "toutId": "2XPoints"
+      },
+      {
+        "description": "Select one qualifying airline and then receive up to $100 per calendar year in statement credits when incidental fees, such as baggage fees and other incidentals, are charged by the airline to your Premier Rewards Gold Card Account.&#42;<sup>&#8225;</sup><span class=\"breakLine\"></span>&#42;American Express relies on accurate airline transaction data to identify incidental fee purchases. If you do not see a credit for a qualifying incidental purchase on your eligible Card after 4 weeks, simply call the number on the back of your Card. See terms & conditions for more details.",
+        "header": "&#36;100 Airline Fee Credit",
+        "order": 3,
+        "toutId": "100AirlineFee"
+      },
+      {
+        "description": "You can get 2x Membership Rewards<sup>&#174;</sup> points per eligible dollar spent, in addition to a &#36;75 hotel credit to spend on qualifying dining, spa, and resort activities when you book a prepaid stay of at least two consecutive nights at participating properties, at <a target=\"_blank\" href=\"https://www.americanexpress.com/hc\">americanexpress.com/hc</a>.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "The Hotel Collection",
+        "order": 4,
+        "toutId": "TheHotelCollection"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "More Points. More Rewards.",
+      "description": "Apply for an Upgrade to get Membership Rewards<sup>&#174;</sup> points faster.<sup>&#8225;</sup>"
+    }
+  },
+  {
+    "sourcecode": "A00000MRF7",
+    "iacode": "LPM",
+    "productId": "041",
+    "expiry_dt": "2019-03-20",
+    "spid_cd": "4GG",
+    "pmcCode": "796",
+    "truePmcCode": "796",
+    "shortName": "blue-cash-preferred",
+    "cardDetailShortName": "blue-cash-preferred",
+    "assetShortName": "blue-cash-preferred",
+    "cardHeadline": "Blue Cash Preferred<sup>&#174;</sup> Card",
+    "filter": {
+      "type": "credit",
+      "partners": "",
+      "rewards": [
+        "cash-back"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "intro-apr"
+      ]
+    },
+    "filters": [
+      "credit",
+      "rewards",
+      "cash-back",
+      "annual-fee",
+      "zero-percent-intro-apr",
+      "low-interest"
+    ],
+    "regzBoxOffsiteEEP": [
+      "40513",
+      "40514",
+      "40515",
+      "40521",
+      "40522",
+      "28000"
+    ],
+    "suppProductName": "blue-cash-preferred-credit-card",
+    "productName": "blue-cash-preferred-credit-card",
+    "UPGD_ELIG_PMCS": [],
+    "similarCards": [
+      "937",
+      "795",
+      "936"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Blue Cash Preferred<sup>&#174;</sup> Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/blue-cash-preferred-credit-card/36182-10-0?pmccode=796",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/BCP/25330-10-0?pmccode=796"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Blue Cash Preferred<sup>&#174;</sup> Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-cash-preferred-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/BCP/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-cash-preferred-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/BCP/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "0% intro APR on purchases and balance transfers for 12 months, then a variable APR, 14.49% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 25.49%.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "BCP",
+    "cardTitle": "American Express Blue Cash Preferred",
+    "dtwHeadline": "Apply for your Blue Cash Preferred<sup>&#174;</sup> Card from American Express.",
+    "dtwBenefitHeadline": "Enjoy savings and rewards for the spending you do evey day.",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "How Cash Back Adds Up",
+    "benefitsHeadline": "",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$95<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-preferred.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/L-Desktop/blue-cash-preferred-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/blue-cash-preferred-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/blue-cash-preferred-card-heroimage.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/blue-cash-preferred-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/blue-cash-preferred-card-heroimage.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36188",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "featured": {
+        "header": "EARN 6&#37; CASH BACK",
+        "toutId": "6PercentCashBack",
+        "description": "at US supermarkets, on up to $6,000 per year in purchases &#40;then 1%&#41;. Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit.<sup>&#8225;</sup>"
+      },
+      "shopping": {
+        "header": "Did your warranty run out&#63;",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer's warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer's warranty of 5 years or less.<sup>1</sup><br><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "travel": {
+        "header": "Car Rental Loss and Damage Insurance<sup>&#9830;</sup>",
+        "toutId": "CarRentalLossandDamageInsurance",
+        "description": "Getting into your rental car can be the start of a great vacation. When you use your eligible Card to reserve and pay for the entire eligible vehicle rental and decline the collision damage waiver at the rental car counter, you can be covered if the car is damaged or stolen. Please read important exclusions and restrictions. Not all vehicle types or rentals are covered. Coverage is not available for vehicles rented in Australia, Italy, and New Zealand. This product provides secondary coverage and does not include liability coverage."
+      },
+      "reward": {
+        "header": "Cash Back",
+        "toutId": "RedeemCashBack",
+        "description": "Earn rewards faster by adding Additional Cards for your family and friends, their purchases earn rewards just like yours. You can also earn cash back for monthly spending, like your phone bill."
+      }
+    },
+    "benefits": [
+      {
+        "description": "at US supermarkets, on up to $6,000 per year in purchases &#40;then 1%&#41;. Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit.<sup>&#8225;</sup>",
+        "header": "EARN 6&#37; CASH BACK",
+        "order": 1,
+        "toutId": "6PercentCashBack"
+      },
+      {
+        "description": "at US gas stations and select US department stores. Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit.<sup>&#8225;</sup>",
+        "header": "EARN 3&#37; CASH BACK",
+        "order": 2,
+        "toutId": "3PercentCashBack"
+      },
+      {
+        "description": "1&#37; Cash Back on other purchases.<sup>&#8225;</sup><span class=\"breakLine\"></span>Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit.",
+        "header": "EARN 1&#37; CASH BACK",
+        "order": 3,
+        "toutId": "1PercentCashBack"
+      },
+      {
+        "description": "Earn rewards faster by adding Additional Cards for your family and friends, their purchases earn rewards just like yours. You can also earn cash back for monthly spending, like your phone bill.",
+        "header": "Cash Back",
+        "order": 4,
+        "toutId": "RedeemCashBack"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "<b>Earn $200 Back</b>",
+      "description": "after you spend $1,000 in purchases on your new Card in your first 3 months. You will receive the $200 back in the form of a statement credit.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A00000MM3F",
+    "iacode": "2X",
+    "productId": "017",
+    "expiry_dt": "2019-03-20",
+    "spid_cd": "TZ3",
+    "pmcCode": "137",
+    "truePmcCode": "137",
+    "shortName": "platinum",
+    "cardDetailShortName": "platinum",
+    "assetShortName": "platinum",
+    "cardHeadline": "The Platinum Card<sup>&#174;</sup>",
+    "filter": {
+      "type": "charge",
+      "partners": "",
+      "rewards": [
+        "reward-points",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "no-foreign-transaction-fee"
+      ]
+    },
+    "filters": [
+      "charge",
+      "rewards",
+      "reward-points",
+      "travel-rewards",
+      "annual-fee",
+      "no-foreign-transaction-fee"
+    ],
+    "regzBoxOffsiteEEP": [
+      "40513",
+      "40514",
+      "40515",
+      "40521",
+      "40522",
+      "28000"
+    ],
+    "suppProductName": "platinum-charge-card",
+    "productName": "platinum-charge-card",
+    "UPGD_ELIG_PMCS": [],
+    "similarCards": [
+      "784",
+      "796",
+      "142"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "36206",
+    "eepXSell": "36182",
+    "cardType": "UPGR",
+    "applyNowLink": {
+      "title": "Request an Upgrade for the The Platinum Card<sup>&#174;</sup>",
+      "link": "Request an Upgrade",
+      "dtmTag": "Upgrade",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/platinum-charge-card/36206?pmccode=137",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/Platinum/25330?pmccode=137"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the The Platinum Card<sup>&#174;</sup>",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/platinum-charge-card/36206",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/Platinum/25330"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/platinum-charge-card/36206",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/upgrade/terms/Platinum/25330"
+      }
+    },
+    "sortPriority": 3,
+    "rates": {
+      "header": "No Interest Charges",
+      "text": "No interest charges because you pay your balance in full each month.‡¤"
+    },
+    "cardFlags": [],
+    "dtmProductName": "Platinum",
+    "cardTitle": "American Express Platinum Card",
+    "dtwHeadline": "Your special Platinum Card<sup>&#174;</sup> offer awaits.",
+    "dtwBenefitHeadline": "THE PLATINUM CARD WITH EXCITING BENEFITS.",
+    "dtwBenefitSubHeadline": "<b>APPLY TODAY TO EXPERIENCE ALL OF THESE BENEFITS AND MANY MORE.<sup>‡</sup></b>",
+    "keyFeaturesHeadline": "Explore the Power of the Platinum Card",
+    "benefitsHeadline": "A World of Benefits Awaits You.",
+    "superHighlightImgAlt": "Enjoy airport lounge access and Priority Pass&trade; Select enrollment with the Platinum Card&reg; from American Express.",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "The annual fee for the Platinum Card is $550. The annual fee for Additional Cards is $175 for up to 3 Additional Cards. The annual fee for the 4th or more Additional Card is $175 for each Card. There is no additional fee for Gold Cards.<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-card.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/l-desktop/platinum-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/1x/platinum-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/2x/platinum-card-heroimage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/1x/platinum-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/2x/platinum-card-heroimage-2x.jpg"
+      }
+    },
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36206",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "featured": {
+        "header": "UBER RIDES WITH PLATINUM<sup>&#8225</sup>",
+        "toutId": "200AirlineFeeCredit",
+        "description": "<b>Get to where you need to be for less, with this exclusive benefit.</b> Enjoy &#36;15 in Uber credits for U.S. rides each month plus a bonus $20 in December<sup>1</sup>, simply because you&#39;re a Platinum Card Member. That can be up to &#36;200 in annual Uber savings.<sup>&#8225</sup><br/><br/><sup>1</sup>Credit and Uber VIP status available to Basic Card Member only"
+      },
+      "travel": {
+        "header": "THE GLOBAL LOUNGE COLLECTION",
+        "toutId": "DeltaSkyClubAccess",
+        "description": "When travel calls, we answer. The American Express Global Lounge Collection<sup>&#8480;</sup><sup>&#8225</sup> unlocks access to more than 1,000 airport lounges across 120 countries and counting. Our unmatched worldwide coverage is made possible through our own networks, The Centurion<sup>&#174;</sup> Lounge and The International American Express lounges, as well as our partner networks, Delta Sky Club<sup>&#174;</sup> and Priority Pass<sup>&#8482;</sup> Select lounges.<br/><br/>Based on comparison with other U.S. credit card programs, as of 5/2017."
+      },
+      "shopping": {
+        "header": "Return Protection",
+        "toutId": "ReturnProtection",
+        "description": "<b>Wasn&#39;t a Perfect Match?</b> No worries. If you try to return an eligible item purchased with your Card within 90 days from the date of purchase and the merchant won&#39;t take it back, Return Protection<sup>&#8225</sup> may provide a refund. <br/><br/>Limited to $300 per item and &#36;1,000 per calendar year. Purchases must be made in the U.S. and its territories."
+      },
+      "reward": {
+        "header": "5X MEMBERSHIP REWARDS<sup>&#174;</sup> POINTS",
+        "toutId": "5XAir",
+        "description": "&#8226; 5X Membership Rewards<sup>&#174;</sup> points on flights booked directly with airlines or with American Express Travel<br/>&#8226; 5X Membership Rewards<sup>&#174;</sup> points on prepaid hotels booked on amextravel.com.<sup>&#8225;</sup>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "<b>Get to where you need to be for less, with this exclusive benefit.</b> Enjoy &#36;15 in Uber credits for U.S. rides each month plus a bonus $20 in December<sup>1</sup>, simply because you&#39;re a Platinum Card Member. That can be up to &#36;200 in annual Uber savings.<sup>&#8225</sup><br/><br/><sup>1</sup>Credit and Uber VIP status available to Basic Card Member only",
+        "header": "UBER RIDES WITH PLATINUM<sup>&#8225</sup>",
+        "order": 1,
+        "toutId": "200AirlineFeeCredit"
+      },
+      {
+        "description": "&#8226; 5X Membership Rewards<sup>&#174;</sup> points on flights booked directly with airlines or with American Express Travel<br/>&#8226; 5X Membership Rewards<sup>&#174;</sup> points on prepaid hotels booked on amextravel.com<sup>&#8225;</sup>",
+        "header": "5X MEMBERSHIP REWARDS<sup>&#174;</sup> POINTS <sup>&#8225</sup>",
+        "order": 2,
+        "toutId": "AdditionalCardmemberCharges"
+      },
+      {
+        "description": "<b>Enjoy perks while you fly.</b><br/>Feel free to check your bags or enjoy an in-flight meal on us. Select one qualifying airline and then receive up to $200 per calendar year in statement credits when incidental fees are charged by the airline to your Platinum Card<sup>&#174;</sup> account.&#42;<sup>&#8225;</sup><br/><br/>Qualifying airlines include Alaska Airlines, American Airlines, Delta Airlines, Frontier Airlines, Hawaiian Airlines, JetBlue Airways, Spirit Airlines, Southwest Airlines, and United Airlines.<br/><br/>&#42;American Express relies on accurate airline transaction data to identify incidental fee purchases. If you do not see a credit for a qualifying incidental purchase on your eligible Card after 4 weeks, simply call the number on the back of your Card. See terms & conditions for more details.",
+        "header": "&#36;200 Airline Fee Credit",
+        "order": 3,
+        "toutId": "200AirlineFeeCredit"
+      },
+      {
+        "description": "When travel calls, we answer. The American Express Global Lounge Collection<sup>&#8480;</sup><sup>&#8225</sup> unlocks access to more than 1,100 airport lounges across 120 countries and counting. Our unmatched worldwide coverage is made possible through our own networks, The Centurion<sup>&#174;</sup> Lounge and The International American Express lounges, as well as our partner networks, Delta Sky Club<sup>&#174;</sup> and Priority Pass<sup>&#8482;</sup> Select lounges.<br/><br/>Based on comparison with other U.S. credit card programs, as of 11/2017.",
+        "header": "THE GLOBAL LOUNGE COLLECTION",
+        "order": 4,
+        "toutId": "GlobalLoungeCollection"
+      },
+      {
+        "description": "<b>Watch points add up.</b> When you use your Platinum Card<sup>&#174;</sup>, you can earn one Membership Rewards<sup>&#174;</sup> point for every dollar you spend on eligible purchases.<sup>&#8225</sup><br/>Use points to treat yourself to rewards from over 500 leading brands in travel, shopping, dining and entertainment.<sup>&#8225</sup>",
+        "header": "Membership Rewards<sup>&#174;</sup> Program",
+        "order": 4,
+        "toutId": "PremiumRoadsideAssistance"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Upgrade to Platinum and Rethink Every Experience You&#39;ve Ever Had",
+      "description": "Enjoy exciting benefits, elevated experiences and premium service that The Platinum Card can provide. Upgrading your Card is simple &#45; Your account number will not change and any existing Additional Card&#40;s&#41; will also be upgraded. You can continue using your existing Card&#40;s&#41; until you receive the new Card&#40;s&#41;."
+    }
+  },
+  {
+    "sourcecode": "A00000MR0R",
+    "iacode": "LPQ",
+    "productId": "098",
+    "expiry_dt": "2019-03-20",
+    "spid_cd": "4GG",
+    "pmcCode": "795",
+    "truePmcCode": "795",
+    "shortName": "blue-cash-everyday",
+    "cardDetailShortName": "blue-cash-everyday",
+    "assetShortName": "blue-cash-everyday",
+    "cardHeadline": "Blue Cash Everyday<sup>&#174;</sup> Card",
+    "filter": {
+      "type": "credit",
+      "partners": "",
+      "rewards": [
+        "cash-back"
+      ],
+      "rateFee": [
+        "no-annual-fee",
+        "intro-apr"
+      ]
+    },
+    "filters": [
+      "credit",
+      "rewards",
+      "cash-back",
+      "no-annual-fee",
+      "zero-percent-intro-apr",
+      "low-interest"
+    ],
+    "regzBoxOffsiteEEP": [
+      "40513",
+      "40514",
+      "40515",
+      "40521",
+      "40522",
+      "28000"
+    ],
+    "suppProductName": "blue-cash-everyday-credit-card",
+    "productName": "blue-cash-everyday-credit-card",
+    "UPGD_ELIG_PMCS": [
+      "796"
+    ],
+    "similarCards": [
+      "937",
+      "936",
+      "796"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "796",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Blue Cash Everyday<sup>&#174;</sup> Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/blue-cash-everyday-credit-card/36182-10-0?pmccode=795",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/BCE/25330-10-0?pmccode=795"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Blue Cash Everyday<sup>&#174;</sup> Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-cash-everyday-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/BCE/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-cash-everyday-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/BCE/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "0% intro APR on purchases and balance transfers for 15 months, then a variable APR, 14.49% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 25.49%.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "BCE",
+    "cardTitle": "American Express Blue Cash Everyday",
+    "dtwHeadline": "Apply for your Blue Cash Everyday<sup>&#174;</sup> Card from American Express",
+    "dtwBenefitHeadline": "Enjoy savings and rewards for the spending you do everyday.",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "How Cash Back Adds Up",
+    "benefitsHeadline": "",
+    "fee": {
+      "header": "No Annual Fee<sup>¤</sup>",
+      "text": ""
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/L-Desktop/blue-cash-everyday-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/blue-cash-everyday-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/blue-cash-everyday-card-heroimage.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/blue-cash-everyday-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/blue-cash-everyday-card-heroimage.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "041"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "shopping": {
+        "header": "Did your warranty run out&#63;",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer's warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer's warranty of 5 years or less.<sup>1</sup><br><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "reward": {
+        "header": "Earn Cash Back:",
+        "toutId": "CashBackNoAnnualFee",
+        "description": "3&#37; Cash Back at U.S. supermarkets, on up to &#36;6,000 per year in purchases (then 1&#37;); 2&#37; Cash Back at U.S. gas stations & select U.S. department stores; and 1&#37; Cash Back on other purchases.<sup>&#8225;</sup><br><br>Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit."
+      },
+      "travel": {
+        "header": "Stranded on the side of the road&#63;",
+        "toutId": "RoadsideAssistanceHotline",
+        "description": "With the Roadside Assistance Hotline<sup>&#8225;</sup> you can get emergency services like towing, changing a flat or boosting a battery in the U.S., Canada, Puerto Rico and USVI. Third&#45;party service costs are your responsibility. There are some vehicle and road exclusions."
+      },
+      "featured": {
+        "header": "Accelerate Cash Back",
+        "toutId": "AccelerateCashBack",
+        "description": "Earn rewards faster by adding Additional Cards for your family and friends, their purchases earn rewards just like yours. You can also earn cash back for monthly spending, like your phone bill.<sup>&#8225;</sup>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "3&#37; Cash Back at U.S. supermarkets, on up to &#36;6,000 per year in purchases (then 1&#37;); 2&#37; Cash Back at U.S. gas stations & select U.S. department stores; and 1&#37; Cash Back on other purchases.<sup>&#8225;</sup><br><br>Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit.",
+        "header": "Earn Cash Back:",
+        "order": 1,
+        "toutId": "CashBackNoAnnualFee"
+      },
+      {
+        "description": "Earn cash back on eligible purchases and have the flexibility to carry a balance with interest or pay in full each month. Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit.",
+        "header": "CASH BACK, NO ANNUAL FEE<sup>&#164;</sup>",
+        "order": 2,
+        "toutId": "CashBackNoAnnualFee"
+      },
+      {
+        "description": "Flexibility to carry a balance or pay in full each month. Balances may accrue interest charges.",
+        "header": "Payment Flexibility",
+        "order": 4,
+        "toutId": "PaymentFlex"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "<span class=\"flag-new\">NEW WELCOME OFFER</span><br/><b>Earn $150 Back</b>",
+      "description": "after you spend $1,000 in purchases on your new Card in your first 3 months. You will receive the $150 back in the form of a statement credit.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A00000M4MT",
+    "iacode": "F2D",
+    "productId": "076",
+    "expiry_dt": "2019-02-23",
+    "spid_cd": "WS9",
+    "pmcCode": "144",
+    "truePmcCode": "144",
+    "shortName": "gold",
+    "cardDetailShortName": "gold",
+    "assetShortName": "gold",
+    "cardHeadline": "Gold Card from American Express",
+    "filter": {
+      "type": "charge",
+      "partners": "",
+      "rewards": [
+        "reward-points",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "no-foreign-transaction-fee"
+      ]
+    },
+    "filters": [
+      "charge",
+      "reward",
+      "reward-points",
+      "travel-rewards",
+      "annual-fee",
+      "no-foreign-transaction-fee"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "preferred-rewards-gold-charge-card",
+    "productName": "preferred-rewards-gold-charge-card",
+    "UPGD_ELIG_PMCS": [
+      "137",
+      "784"
+    ],
+    "similarCards": [
+      "137",
+      "784",
+      "158"
+    ],
+    "active": true,
+    "decommissioned": true,
+    "requestUpgradePMC": "137",
+    "entryEEP": "36182",
+    "cardType": "SUPS",
+    "applyNowLink": {
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/supplementary/preferred-rewards-gold-charge-card/36182-9-0/",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/supplementary/Gold/25330-9-0/",
+      "link": "Add Someone to Your Account",
+      "title": "Add Someone to Your Account for the American Express Gold Card",
+      "dtmTag": "AddSomeone"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Gold Card from American Express",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/supplementary/terms/preferred-rewards-gold-charge-card/36182-9-0",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/supplementary/terms/Gold/25330-9-0"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/supplementary/terms/preferred-rewards-gold-charge-card/36182-9-0",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/supplementary/terms/Gold/25330-9-0"
+      }
+    },
+    "requestUpgrade": "platinum",
+    "sortPriority": 1,
+    "rates": {
+      "header": "No Interest Charges",
+      "text": "No interest charges because you pay your balance in full each month.‡¤"
+    },
+    "cardFlags": [
+      {
+        "id": "your-card",
+        "value": "Your Card"
+      }
+    ],
+    "aliasProductId": [
+      "079"
+    ],
+    "dtmProductName": "Gold",
+    "cardTitle": "American Express Gold Card",
+    "dtwHeadline": "<div class=\"spinner\"></div>",
+    "dtwBenefitHeadline": "",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Earning Points Faster.",
+    "benefitsHeadline": "",
+    "superHighlightImgAlt": "Take more flights with double points on direct airline purchases with the Gold Card from American Express.",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "The annual fee for up to 5 Additional Gold Cards, is $0. Each Additional Gold Card after the first 5 Cards, is $35.<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/gold-card.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/l-desktop/gold-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/1x/gold-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/2x/gold-card-heroimage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/1x/gold-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/2x/gold-card-heroimage-2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "017",
+      "078"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36207",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "featured": {
+        "header": "No Foreign Transaction Fees<sup>&#8225;</sup><sup>&#164;</sup>",
+        "toutId": "NoFXFeesIcon",
+        "description": "Enjoy every trip abroad with no foreign transaction fees from American Express with the Gold Card.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>&curren;"
+      },
+      "reward": {
+        "header": "Up to 2X Points",
+        "toutId": "2XUpPoints",
+        "description": "2X points for flights booked directly with airlines and at US restaurants. 1X points on other purchases. Terms and limitations apply.<sup>&#8225;</sup>"
+      },
+      "shopping": {
+        "header": "Amex Offers",
+        "toutId": "AmexOffers",
+        "description": "Amex Offers rewards you at places you like to shop, dine, travel, and more."
+      },
+      "travel": {
+        "header": "2X Points",
+        "toutId": "2XPoints",
+        "description": "2X points for flights booked directly with airlines. Terms and limitations apply.<sup>&#8225;</sup>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "for flights booked directly with airlines and at US restaurants. 1X points on other purchases. Terms and limitations apply.<sup>&#8225;</sup>",
+        "header": "2X Points",
+        "order": 1,
+        "toutId": "2XPoints"
+      },
+      {
+        "description": "You can get 2x<br/> Membership Rewards<sup>&#174;</sup> points per eligible dollar spent, in addition to a $75 hotel credit to spend on qualifying dining, spa, and resort activities when you book a prepaid stay of at least two consecutive nights at participating properties, at <a href=\"https://www.americanexpress.com/hc/\" target=\"_blank\">americanexpress.com/hc</a>.<span class=\"benefit_footnote_class\"><sup>&#8225;</sup></span>",
+        "header": "The Hotel Collection",
+        "order": 2,
+        "toutId": "TheHotelCollection"
+      },
+      {
+        "description": "Enjoy every trip abroad with no foreign transaction fees from American Express with the Gold Card.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>&curren;",
+        "header": "No Foreign Transaction Fees<sup>&#8225;</sup><sup>&#164;</sup>",
+        "order": 3,
+        "toutId": "NoFXFeesIcon"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Experience Card Membership Together",
+      "description": "Share the benefits of Card Membership with up to 5 Additional Cards at no annual fee."
+    }
+  },
+  {
+    "sourcecode": "A00000M4WR",
+    "iacode": "QE2",
+    "productId": "038",
+    "expiry_dt": "2019-02-16",
+    "spid_cd": "4GG",
+    "pmcCode": "81",
+    "truePmcCode": "81",
+    "shortName": "blue",
+    "cardDetailShortName": "blue",
+    "assetShortName": "blue",
+    "cardHeadline": "Blue from American Express<sup>&#174;</sup>",
+    "filter": {
+      "type": "credit",
+      "partners": "",
+      "rewards": [
+        "reward-points"
+      ],
+      "rateFee": [
+        "no-annual-fee",
+        "intro-apr"
+      ]
+    },
+    "filters": [
+      "credit",
+      "rewards",
+      "reward-points",
+      "no-annual-fee"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "blue-credit-card",
+    "productName": "blue-credit-card",
+    "UPGD_ELIG_PMCS": [],
+    "similarCards": [
+      "937",
+      "795",
+      "796"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Blue from American Express<sup>&#174;</sup>",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/blue-credit-card/36182-10-0?pmccode=81",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/Blue/25330-10-0?pmccode=81"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Blue from American Express<sup>&#174;</sup>",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/Blue/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/Blue/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "16.74, 19.74 <span style='font-size:12px;font-weight:normal;' class='cl_or'>or</span> 21.74% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "aliasPmc": [
+      "252"
+    ],
+    "dtmProductName": "Blue",
+    "cardTitle": "American Express Blue Card",
+    "dtwHeadline": "<div class=\"spinner\"></div>",
+    "dtwBenefitHeadline": "",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "How Membership Rewards® Points Add Up",
+    "benefitsHeadline": "",
+    "fee": {
+      "header": "No Annual Fee<sup>¤</sup>",
+      "text": ""
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/L-Desktop/blue-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/blue-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/blue-card-heroimage.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/blue-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/blue-card-heroimage.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "shopping": {
+        "header": "Did Your Warranty Run Out&#63;",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer's warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer's warranty of 5 years or less.<sup>1</sup><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "travel": {
+        "header": "Stranded on the side of the road&#63;<sup>&#8225;</sup>",
+        "toutId": "RoadsideAssistanceHotline",
+        "description": "With the Roadside Assistance Hotline<sup>&#8225;</sup> you can get emergency services like towing, changing a flat or boosting a battery in the U.S., Canada, Puerto Rico and USVI. Third&#45;party service costs are your responsibility. There are some vehicle and road exclusions."
+      },
+      "featured": {
+        "header": "MEMBERSHIP REWARDS<sup>&#174;</sup> PROGRAM<sup>&#8225;</sup>",
+        "toutId": "MRPaywithPoints",
+        "description": "The great thing about this program is you can use the points for virtually anything you want for yourself or others&#58; things like award travel, hotel rooms, restaurant gift cards, or American Express Gift Cards which can be used anywhere American Express Cards are accepted in the US.<sup>&#8225;</sup>"
+      },
+      "reward": {
+        "header": "Membership Rewards - 1x",
+        "toutId": "1XPoints",
+        "description": "for every eligible dollar you spend.<sup>&#8225;</sup>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "for every eligible dollar you spend.<sup>&#8225;</sup>",
+        "header": "Membership Rewards - 1x",
+        "order": 1,
+        "toutId": "1XPoints"
+      },
+      {
+        "description": "Flexibility to carry a balance or pay in full each month. Balances may accrue interest charges.",
+        "header": "Payment Flexibility",
+        "order": 2,
+        "toutId": "PaymentFlex"
+      },
+      {
+        "description": "Amex Offers rewards you at places you like to shop, dine, travel and more.",
+        "header": "MAKE EVERYDAY PURCHASES MORE REWARDING WITH AMEX OFFERS",
+        "order": 3,
+        "toutId": "AmexOffers"
+      },
+      {
+        "description": "The great thing about this program is you can use the points for virtually anything you want for yourself or others&#58; things like award travel, hotel rooms, restaurant gift cards, or American Express Gift Cards which can be used anywhere American Express Cards are accepted in the US.<sup>&#8225;</sup>",
+        "header": "MEMBERSHIP REWARDS<sup>&#174;</sup> PROGRAM<sup>&#8225;</sup>",
+        "order": 4,
+        "toutId": "MRPaywithPoints"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Earn Rewards with No Annual Fee",
+      "description": ""
+    }
+  },
+  {
+    "sourcecode": "A0000EUW30",
+    "iacode": "TZU",
+    "productId": "004",
+    "expiry_dt": "2019-07-17",
+    "spid_cd": "4GG",
+    "pmcCode": "117",
+    "truePmcCode": "117",
+    "shortName": "hilton-honors",
+    "cardDetailShortName": "hilton-honors",
+    "assetShortName": "hilton-honors",
+    "cardHeadline": "Hilton Honors Card",
+    "filter": {
+      "type": "credit",
+      "partners": "hilton-honors",
+      "rewards": [
+        "hotel-rewards",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "no-annual-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "hilton-honors",
+      "rewards",
+      "hotel",
+      "travel-rewards",
+      "no-annual-fee",
+      "hotel-rewards",
+      "no-foreign-transaction-fee"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "hilton-honors-credit-card",
+    "productName": "hilton-honors-credit-card",
+    "UPGD_ELIG_PMCS": [
+      "774",
+      "1130"
+    ],
+    "similarCards": [
+      "774",
+      "774:72T",
+      "1130",
+      "1130:72U"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "1130",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Hilton Honors Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/hilton-honors-credit-card/36182-10-0?pmccode=117",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/HiltonHonors/25330-10-0?pmccode=117"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Hilton Honors Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/hilton-honors-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/HiltonHonors/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/hilton-honors-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/HiltonHonors/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "familyId": "paris",
+    "rates": {
+      "header": "APR",
+      "text": "17.24% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 26.24% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "HiltonHonors",
+    "cardTitle": "American Express Hilton Honors",
+    "dtwHeadline": "Apply for your special Hilton Honors Credit Card offer from American Express.",
+    "dtwBenefitHeadline": "Earn More Points, Go More Places.",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Get More Points in More Places",
+    "benefitsHeadline": "",
+    "fee": {
+      "header": "No Annual Fee<sup>¤</sup>",
+      "text": ""
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/large/hilton-honors-card-heroImage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-1x/hilton-honors-card-heroImage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-2x/hilton-honors-card-heroImage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-1x/hilton-honors-card-heroImage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-2x/hilton-honors-card-heroImage_2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "028",
+      "500"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": null,
+    "SUP_DEF_NPA": "36182",
+    "iaOverlay": {
+      "72S": {
+        "shortName": "hilton-honors-credit-card",
+        "cardDetailShortName": "hilton-honors-credit-card",
+        "assetShortName": "hilton-honors",
+        "familyId": "halifax",
+        "pmcCode": "117:72S",
+        "XSELL_DEF_NPA": null,
+        "UPGD_DEF_NPA": null,
+        "SUP_DEF_NPA": "36180",
+        "UPGD_ELIG_PMCS": [
+          "774:72T",
+          "1130:72U"
+        ],
+        "UPGD_ELIG_PIDS": [
+          "028:72T",
+          "500:72U"
+        ],
+        "requestUpgradePMC": "1130:72U"
+      }
+    },
+    "highlights": {
+      "featured": {
+        "header": "COMPLIMENTARY SILVER STATUS",
+        "toutId": "ComplimentarySilver",
+        "description": "Enjoy complimentary Hilton Honors Silver status with your Card.<sup>&#8225</sup> Plus, spend &#36;20,000 on eligible purchases on your Card in a calendar year and you can earn an upgrade to Hilton Honors Gold status through the end of the next calendar year.<sup>&#8225</sup>"
+      },
+      "shopping": {
+        "header": "Did Your Warranty Run Out&#63;",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer's warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer's warranty of 5 years or less.<sup>1</sup><br><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "reward": {
+        "header": "EARN 7X HILTON HONORS BONUS POINTS",
+        "toutId": "7XHHonorsPoints",
+        "description": "for each dollar of eligible purchases charged on your Card directly with a hotel or resort within the Hilton Portfolio.<sup>&#8225;</sup>"
+      },
+      "travel": {
+        "header": "Car Rental Loss and Damage Insurance<sup>&#9830;</sup>",
+        "toutId": "CarRentalLossandDamageInsurance",
+        "description": "Getting into your rental car can be the start of a great vacation. When you use your eligible Card to reserve and pay for the entire eligible vehicle rental and decline the collision damage waiver at the rental car counter, you can be covered if the car is damaged or stolen. Please read important exclusions and restrictions. Not all vehicle types or rentals are covered. Coverage is not available for vehicles rented in Australia, Italy, and New Zealand. This product provides secondary coverage and does not include liability coverage."
+      }
+    },
+    "benefits": [
+      {
+        "description": "for each dollar of eligible purchases charged on your Card directly with a hotel or resort within the Hilton Portfolio.<sup>&#8225;</sup>",
+        "header": "EARN 7X HILTON HONORS BONUS POINTS",
+        "order": 1,
+        "toutId": "7XHHonorsPoints"
+      },
+      {
+        "description": "for each dollar of eligible purchases on your Card at U.S. restaurants, at U.S. supermarkets, and at U.S. gas stations.<sup>&#8225;</sup>",
+        "header": "EARN 5X HILTON HONORS BONUS POINTS",
+        "order": 2,
+        "toutId": "5XHHonorsPoints"
+      },
+      {
+        "description": "on all other eligible purchases.<sup>&#8225;</sup>",
+        "header": "EARN 3X HILTON HONORS BONUS POINTS",
+        "order": 3,
+        "toutId": "3XHHonorsPoints"
+      },
+      {
+        "description": "Enjoy international travel without additional fees on purchases made abroad.<sup>&#8225;</sup><sup>&#164;</sup>",
+        "header": "NO FOREIGN TRANSACTION FEE",
+        "order": 4,
+        "toutId": "NoFXFeesIcon"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Earn 50,000 Hilton Honors Bonus Points",
+      "description": "after you spend $1,000 in purchases on the Card within your first 3 months of Card Membership.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A00000KTWJ",
+    "iacode": "MU8",
+    "productId": "048",
+    "expiry_dt": "2019-03-06",
+    "spid_cd": "4GG",
+    "pmcCode": "105",
+    "truePmcCode": "105",
+    "shortName": "delta-blue",
+    "cardDetailShortName": "delta-blue",
+    "assetShortName": "delta-blue",
+    "cardHeadline": "Blue Delta SkyMiles<sup>&#174;</sup> Credit Card ",
+    "filter": {
+      "type": "credit",
+      "partners": "delta-skymiles",
+      "rewards": [
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "no-annual-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "delta-skymiles",
+      "travel-rewards",
+      "no-annual-fee",
+      "airline-miles"
+    ],
+    "regzBoxOffsiteEEP": [
+      "28000",
+      "28004",
+      "28009",
+      "28011",
+      "45013",
+      "40515"
+    ],
+    "suppProductName": "blue-delta-skymiles-credit-card",
+    "productName": "blue-delta-skymiles-credit-card",
+    "UPGD_ELIG_PMCS": [
+      "113",
+      "142",
+      "106"
+    ],
+    "similarCards": [
+      "113",
+      "142",
+      "106"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Blue Delta SkyMiles<sup>&#174;</sup> Credit Card ",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/blue-delta-skymiles-credit-card/36182-10-0?pmccode=105",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/DeltaBlue/25330-10-0?pmccode=105"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Blue Delta SkyMiles<sup>&#174;</sup> Credit Card ",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-delta-skymiles-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaBlue/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/blue-delta-skymiles-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaBlue/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "17.24% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 26.24% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "DeltaBlue",
+    "cardTitle": "Blue Delta Credit Card",
+    "dtwHeadline": "<div class=\"spinner\"></div>",
+    "dtwBenefitHeadline": "",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Earn more, go further",
+    "benefitsHeadline": "",
+    "UPGD_ELIG_PIDS": [
+      "024"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "",
+    "SUP_DEF_NPA": "36182",
+    "fee": {
+      "header": "No Annual Fee<sup>¤</sup>",
+      "text": ""
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-blue.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-blue.png",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-blue.png",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-blue.png",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-blue.png",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-blue.png"
+      }
+    },
+    "highlights": {
+      "featured": {
+        "header": "EARN MORE MILES",
+        "toutId": "EarnMiles",
+        "description": "Earn 2 miles per dollar at US Restaurants and on eligible Delta purchases, and earn 1 mile per dollar on all other eligible purchases &#8212; from everyday purchases on things like gas, groceries, and entertainment, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners.<sup>&#8225;</sup> Plus, there's no limit to how much you can earn.<sup>&#8225;</sup>"
+      },
+      "travel": {
+        "header": "STACK UP YOUR MILES",
+        "toutId": "EarnMiles",
+        "description": "Earn 2 miles at US Restaurants and on eligible Delta purchases, and earn 1 mile on all other eligible purchases &#151; from everyday purchases on things like gas, groceries, and entertainment, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span> Plus, there&#39;s no limit to how much you can earn.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "reward": {
+        "header": "EARN MILES",
+        "toutId": "EarnMiles",
+        "description": "Earn 2 miles at US Restaurants and on eligible Delta purchases, and earn 1 mile on all other eligible purchases &#151; from everyday purchases on things like gas, groceries, and entertainment, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span> Plus, there&#39;s no limit to how much you can earn.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "shopping": {
+        "header": "DID YOUR WARRANTY RUN OUT&#63;<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer&#39;s warranty runs out, something always seems to happen&#63; When you use your American Express<sup>&#174;</sup> Card for eligible purchases, you can get up to one extra year added to the original manufacturer&#39;s warranty. Applies to warranties of 5 years or less. Please read important exclusions and restrictions."
+      }
+    },
+    "benefits": [
+      {
+        "description": "Enjoy more than just your meal when you dine out &#8211; get rewards on every bite with 2 miles per dollar at US restaurants.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "EARN 2 MILES AT US RESTAURANTS",
+        "order": 1,
+        "toutId": "Earn2MilesAtUSRestaurants"
+      },
+      {
+        "description": "You can earn 2 miles per dollar spent when you use your Card for purchases made directly with Delta, including flights booked on Delta.com, Sky Club<sup>&#174;</sup> membership or passes, Delta Vacations<sup>&#174;</sup> packages, seat upgrades, or in&#45;flight purchases like food, beverages, and audio headsets.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "EARN 2 MILES ON DELTA PURCHASES",
+        "order": 2,
+        "toutId": "Earn2MilesOnDeltaPurchases"
+      },
+      {
+        "description": "Earn miles for purchases you make with your Card&#151; from everyday purchases on things like gas, groceries, and entertainment, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span> Plus, there&#39;s no limit to how much you can earn.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "EARN 1 MILE",
+        "order": 3,
+        "toutId": "Earn1Mile"
+      },
+      {
+        "description": "Receive a 20&#37; savings in the form of a statement credit after you use your Card on eligible Delta in&#45;flight purchases of food, beverages, and audio headsets.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "IN&#45;FLIGHT SAVINGS",
+        "order": 4,
+        "toutId": "InFlightSavings"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "<b>Earn 10,000 Bonus Miles</b>",
+      "description": "after spending $500 in purchases on your new Card in your first 3 months of Card Membership.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A0000EWCHF",
+    "iacode": "Q3C",
+    "productId": "006",
+    "expiry_dt": "2018-08-01",
+    "spid_cd": "4GG",
+    "pmcCode": "158",
+    "truePmcCode": "158",
+    "shortName": "starwood-preferred-guest",
+    "cardDetailShortName": "starwood-preferred-guest",
+    "assetShortName": "starwood-preferred-guest",
+    "cardHeadline": "The Starwood Preferred Guest<sup>&#174;</sup> Credit Card",
+    "filter": {
+      "type": "credit",
+      "partners": "starwood",
+      "rewards": [
+        "travel-rewards",
+        "hotel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "no-foreign-transaction-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "starwood",
+      "rewards",
+      "travel-rewards",
+      "hotel",
+      "annual-fee",
+      "no-foreign-transaction-fee",
+      "hotel-rewards"
+    ],
+    "regzBoxOffsiteEEP": [
+      "40513",
+      "40514",
+      "40515",
+      "40521",
+      "40522",
+      "28000"
+    ],
+    "suppProductName": "starwood-preferred-credit-card",
+    "productName": "starwood-preferred-credit-card",
+    "UPGD_ELIG_PMCS": [],
+    "similarCards": [],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the The Starwood Preferred Guest<sup>&#174;</sup> Credit Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/starwood-preferred-credit-card/36182-10-0?pmccode=158",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/SPG/25330-10-0?pmccode=158"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the The Starwood Preferred Guest<sup>&#174;</sup> Credit Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/starwood-preferred-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/SPG/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/starwood-preferred-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/SPG/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "16.74% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 20.74% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "SPG",
+    "cardTitle": "American Express Starwood Preferred Guest",
+    "dtwHeadline": "<div class=\"spinner\"></div>",
+    "dtwBenefitHeadline": "",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Your ideal travel companion.",
+    "benefitsHeadline": "",
+    "UPGD_ELIG_PIDS": [],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "",
+    "SUP_DEF_NPA": "36182",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$0 intro annual fee for the first year, then $95.<sup>†</sup><sup>¤</sup>"
+    },
+    "heroImgCredit": "",
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/starwood-preferred-guest.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/large/the-starwood-preferred-guest-credit-card-heroImage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-1x/the-starwood-preferred-guest-credit-card-heroImage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-2x/the-starwood-preferred-guest-credit-card-heroImage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-1x/the-starwood-preferred-guest-credit-card-heroImage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-2x/the-starwood-preferred-guest-credit-card-heroImage_2x.jpg"
+      }
+    },
+    "highlights": {
+      "shopping": {
+        "header": "Your warranty run out?",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer&#39;s warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer&#39;s warranty of 5 years or less.<sup>1</sup><br><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "featured": {
+        "header": "EARN STARPOINTS",
+        "toutId": "2XPoints",
+        "description": "<b>From now through July 31, 2018:</b> Earn 2 Starpoints<sup>&#174;</sup> for every dollar of eligible purchases on the Card at participating SPG<sup>&#174;</sup> and Marriott Rewards<sup>&#174;</sup> hotels. Earn 1 Starpoint for all other eligible purchases.<br/><br/><b>Note:</b> On August 1, 2018, SPG will convert every one Starpoint in a loyalty member account to three points. In general, corresponding redemption changes will occur. Visit members.marriott.com for details.<br/><b>Effective August 1, 2018:</b> Earn 6 points for every dollar of eligible purchases on the Card at participating SPG and Marriott Rewards<sup>&#174;</sup> hotels. Earn 2 points for all other eligible purchases.<sup>&#8225;</sup>"
+      },
+      "travel": {
+        "header": "Redeem Starpoints<sup>&#174;</sup> for free flights with SPG Flights with no blackout dates.",
+        "toutId": "RedeemStarpoints",
+        "description": "Redeem Starpoints<sup>&#174;</sup> for free flights on over 150 airlines with SPG Flights with no blackout dates. Transfer Starpoints to over 30 airline frequent flyer programs, mostly on a one-to-one basis.<sup>&#8225</sup> Receive a 5,000 Starpoint bonus when you transfer 20,000 Starpoints to a participating frequent flyer program.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "<b>From now through July 31, 2018:</b> Earn 2 Starpoints<sup>&#174;</sup> for every dollar of eligible purchases on the Card at participating SPG<sup>&#174;</sup> and Marriott Rewards<sup>&#174;</sup> hotels. Earn 1 Starpoint for all other eligible purchases.<br/><br/><b>Note:</b> On August 1, 2018, SPG will convert every one Starpoint in a loyalty member account to three points. In general, corresponding redemption changes will occur. Visit members.marriott.com for details.<br/><b>Effective August 1, 2018:</b> Earn 6 points for every dollar of eligible purchases on the Card at participating SPG and Marriott Rewards<sup>&#174;</sup> hotels. Earn 2 points for all other eligible purchases.<sup>&#8225;</sup>",
+        "header": "EARN STARPOINTS",
+        "order": 1,
+        "toutId": "2XPoints"
+      },
+      {
+        "description": "Redeem Starpoints<sup>&#174;</sup> for free nights at any of Starwood&#39;s 11 distinct brands<sup>&#8225</sup> including St. Regis, The Luxury Collection, W Hotels, Le M&#233;ridien, Westin, Sheraton, Aloft, Element Hotels, Four Points by Sheraton, Tribute Portfolio and Design Hotels.<sup>&#8225</sup> <br><br>Some hotels and resorts have mandatory service charges.",
+        "header": "Your ideal travel companion.",
+        "order": 2,
+        "toutId": "StarPointsFreeNights"
+      },
+      {
+        "description": "SPG&#174; Card Members enjoy international travel without foreign transaction fees from American Express when using their Card on purchases abroad.<sup>&#8225;</sup><sup>&#164;</sup>",
+        "header": "No Foreign Transaction Fees<sup>&#164;</sup>",
+        "order": 4,
+        "toutId": "NoFXFees"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "<b>Earn up to $200 in statement credits<sup>&#8224;</sup></b>",
+      "description": "Earn a $100 statement credit after you make $1,000 in purchases on the Card within your first 3 months of Card Membership. Plus, earn an additional $100 statement credit after your first purchase on the Card at a participating SPG&lt;sup&gt;&amp;#174;&lt;/sup&gt; or Marriott Rewards&lt;sup&gt;&amp;#174;&lt;/sup&gt; hotel within your first 6 months of Card Membership.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A0000EV4NW",
+    "iacode": "HO2",
+    "productId": "095",
+    "expiry_dt": "2019-04-04",
+    "spid_cd": "4GG",
+    "pmcCode": "937",
+    "truePmcCode": "937",
+    "shortName": "amex-everyday",
+    "cardDetailShortName": "amex-everyday",
+    "assetShortName": "amex-everyday",
+    "cardHeadline": "Amex EveryDay<sup>&#174;</sup> Credit Card",
+    "filter": {
+      "type": "credit",
+      "partners": "",
+      "rewards": [
+        "reward-points"
+      ],
+      "rateFee": [
+        "no-annual-fee",
+        "intro-apr"
+      ]
+    },
+    "filters": [
+      "credit",
+      "rewards",
+      "reward-points",
+      "no-annual-fee",
+      "zero-percent-intro-apr",
+      "low-interest"
+    ],
+    "regzBoxOffsiteEEP": [
+      "40513",
+      "40514",
+      "40515",
+      "40521",
+      "40522",
+      "28000"
+    ],
+    "suppProductName": "amex-everyday-credit-card",
+    "productName": "amex-everyday-credit-card",
+    "UPGD_ELIG_PMCS": [
+      "936"
+    ],
+    "similarCards": [
+      "795",
+      "784"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "936",
+    "entryEEP": "90001",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Amex EveryDay<sup>&#174;</sup> Credit Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/amex-everyday-credit-card/90001-10-0?pmccode=937",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/AED/25330-10-0?pmccode=937"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Amex EveryDay<sup>&#174;</sup> Credit Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/amex-everyday-credit-card/90001-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/AED/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/amex-everyday-credit-card/90001-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/AED/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "0% intro APR on purchases and balance transfers for 15 months, then a variable APR, 14.49% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 25.49%.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "AED",
+    "cardTitle": "Amex EveryDay Card",
+    "dtwHeadline": "Apply for a special Amex EveryDay<sup>&#174;</sup> Credit Card offer from American Express.",
+    "dtwBenefitHeadline": "Enjoy the Card that rewards you at the places you shop every day.",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "How Membership Rewards<sup>®</sup> Points Add Up",
+    "fee": {
+      "header": "No Annual Fee<sup>¤</sup>",
+      "text": ""
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/amex-everyday.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/L-Desktop/amex-everyday-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/amex-everyday-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/amex-everyday-card-heroimage.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/amex-everyday-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/amex-everyday-card-heroimage.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "096"
+    ],
+    "XSELL_DEF_NPA": "90001",
+    "UPGD_DEF_NPA": "",
+    "SUP_DEF_NPA": "15154",
+    "addAPRToWelcomeOffer": true,
+    "highlights": {
+      "reward": {
+        "header": "2X Points at US Supermarkets",
+        "toutId": "2XPoints",
+        "description": "2x points at US supermarkets on up to $6,000 per year in purchases. Terms Apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "shopping": {
+        "header": "Shop with <br>Membership Rewards<sup>&#174;</sup> Points",
+        "toutId": "UsePointsforYourCharges",
+        "description": "Use Membership Rewards<sup>&#174;</sup> points to shop for popular products from top online retailers.<sup>&#8225;</sup>"
+      },
+      "featured": {
+        "header": "Earn 20&#37; More Points",
+        "toutId": "Earn20PercentPoints",
+        "description": "Use your Card 20 or more times on purchases in a billing period and earn 20&#37; more points on those purchases less returns and credits. Terms apply.<span class=\"benefit_footnote_class\"><sup>&#8225;</sup></span>"
+      },
+      "travel": {
+        "header": "2X Membership Rewards<sup>&#174;</sup> Points at AmexTravel.com<sup>&#8225;</sup>",
+        "toutId": "2XPoints",
+        "description": "You can get double<br>Membership Rewards<sup>&#174;</sup> points on every dollar of eligible travel purchases&#151;such as prepaid hotel stays, vacation packages and cruises&#151;when you use your Card to book your trip through <a href=\"https://www.AmexTravel.com\" target=\"_blank\" title=\"AmexTravel.com\"><u>AmexTravel.com</u></a>. Terms and limitations apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "Use your Card 20 or more times on purchases in a billing period and earn 20% more points on those purchases less returns and credits. Terms apply.<span class=\"benefit_footnote_class\"><sup>&#8225;</sup></span>",
+        "header": "Earn 20&#37; More Points",
+        "order": 1,
+        "toutId": "Earn20PercentPoints"
+      },
+      {
+        "description": "2x points at US supermarkets on up to $6,000 per year in purchases. Terms Apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "2X Points at US Supermarkets",
+        "order": 2,
+        "toutId": "2XPoints"
+      },
+      {
+        "description": "1X POINTS for every eligible dollar you spend.<span class=\"benefit_footnote_class\"><sup>&#8225;</sup></span>",
+        "header": "1x points on other purchases.",
+        "order": 3,
+        "toutId": "1XPoints"
+      },
+      {
+        "description": "Flexibility to carry a balance or pay in full each month. Balances may accrue interest charges.",
+        "header": "Payment Flexibility",
+        "order": 4,
+        "toutId": "PaymentFlex"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "<span class=\"flag-new\">NEW WELCOME OFFER</span><br/><b>$0 Balance Transfer Fee Offer<sup>&#164;</sup> &#43; Earn 10,000 Membership Rewards<sup>&#174;</sup> Points<sup>&#8224;</sup></b>",
+      "description": "after you use your new Card to make $1,000 in purchases in your first 3 months.&lt;sup&gt;&amp;#8224;&lt;/sup&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;$0 Balance Transfer Fee.&lt;/b&gt; Balance transfers must be requested within 60 days of account opening.<br/><br/>0% intro APR on purchases and balance transfers for 15 months, then a variable APR, 14.49% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 25.49%.<sup>¤</sup>"
+    }
+  },
+  {
+    "sourcecode": "A00000MV4W",
+    "iacode": "HO1",
+    "productId": "096",
+    "expiry_dt": "2019-04-04",
+    "spid_cd": "4GG",
+    "pmcCode": "936",
+    "truePmcCode": "936",
+    "shortName": "amex-everyday-preferred",
+    "cardDetailShortName": "amex-everyday-preferred",
+    "assetShortName": "amex-everyday-preferred",
+    "cardHeadline": "Amex EveryDay<sup>&#174;</sup> Preferred Credit Card",
+    "filter": {
+      "type": "credit",
+      "partners": "",
+      "rewards": [
+        "reward-points"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "intro-apr"
+      ]
+    },
+    "filters": [
+      "credit",
+      "rewards",
+      "reward-points",
+      "annual-fee",
+      "zero-percent-intro-apr",
+      "low-interest"
+    ],
+    "regzBoxOffsiteEEP": [
+      "40513",
+      "40514",
+      "40515",
+      "40521",
+      "40522",
+      "28000"
+    ],
+    "suppProductName": "amex-everyday-preferred-credit-card",
+    "productName": "amex-everyday-preferred-credit-card",
+    "UPGD_ELIG_PMCS": [],
+    "similarCards": [
+      "937",
+      "784",
+      "796"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "90001",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Amex EveryDay<sup>&#174;</sup> Preferred Credit Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/amex-everyday-preferred-credit-card/90001-10-0?pmccode=936",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/AEDP/25330-10-0?pmccode=936"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Amex EveryDay<sup>&#174;</sup> Preferred Credit Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/amex-everyday-preferred-credit-card/90001-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/AEDP/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/amex-everyday-preferred-credit-card/90001-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/AEDP/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "0% intro APR on purchases and balance transfers for 12 months, then a variable APR, 14.49% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 24.49%.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "AEDP",
+    "cardTitle": "Amex EveryDay Preferred Card",
+    "dtwHeadline": "<div class=\"spinner\"></div>",
+    "dtwBenefitHeadline": "",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "How Membership Rewards<sup>®</sup> Points Add Up",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$95<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/amex-everyday-preferred.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/L-Desktop/amex-everyday-preferred-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/amex-everyday-preferred-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/M-Tablet/amex-everyday-preferred-card-heroimage.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/amex-everyday-preferred-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/lending-products/S-Mobile/amex-everyday-preferred-card-heroimage.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [],
+    "XSELL_DEF_NPA": "90001",
+    "UPGD_DEF_NPA": "90001",
+    "SUP_DEF_NPA": "90005",
+    "highlights": {
+      "featured": {
+        "header": "Earn 50&#37; Extra Points",
+        "toutId": "Earn50PercentPoints",
+        "description": "Make 30 or more purchases with your Card in a billing period and earn 50&#37; extra points on those purchases less returns and credits. Terms apply.<sup>&#8225;</sup>"
+      },
+      "shopping": {
+        "header": "Wasn&#39;t a perfect match&#63;",
+        "toutId": "ReturnProtection",
+        "description": "No worries. If you try to return an eligible item purchased with your Card within 90 days from the date of purchase and the merchant won't take it back, Return Protection<sup>&#8225;</sup> may provide a refund.<br><span class=\"breakLine\"></span>Limited to $300 per item and $1,000 per calendar year. Purchases must be made in the U.S. and its territories."
+      },
+      "reward": {
+        "toutId": "3XPoints",
+        "description": "3x points at US supermarkets on up to $6,000 per year in purchases; 2x points at US gas stations; 1x points on other purchases. Terms apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "travel": {
+        "header": "2X Membership Rewards<sup>&#174;</sup> Points at AmexTravel.com",
+        "toutId": "2XPoints",
+        "description": "You can get double<br>Membership Rewards<sup>&#174;</sup> points on every dollar of eligible travel purchases&#151;such as prepaid hotel stays, vacation packages and cruises&#151;when you use your Card to book your trip through <a href=\"https://www.AmexTravel.com\" target=\"_blank\" title=\"AmexTravel.com\">AmexTravel.com</a>. Terms and limitations apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "On up to $6,000 per year in purchases. Learn More.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "3X Points at US Supermarkets.",
+        "order": 1,
+        "toutId": "3XPoints"
+      },
+      {
+        "description": "See details.<sup>&#8225;</sup>",
+        "header": "2X Points at US Gas Stations.",
+        "order": 2,
+        "toutId": "2XPoints"
+      },
+      {
+        "description": "See details.<sup>&#8225;</sup>",
+        "header": "1X Points on Other Purchases.",
+        "order": 3,
+        "toutId": "1XPoints"
+      },
+      {
+        "description": "Use your Card 30 or more times on purchases in a billing period and earn 50% more points on those purchases less returns and credits. Terms apply.<sup>&#8225;</sup>",
+        "header": "Earn 50&#37; Extra Points",
+        "order": 4,
+        "toutId": "50PercentPoints"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Earn 15,000 <br/>Membership Rewards<sup>&#174;</sup> Points",
+      "description": "after you use your new Card to make $1,000 in purchases in your first 3 months.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A0000EUW0E",
+    "iacode": "TZV",
+    "productId": "028",
+    "expiry_dt": "2019-07-17",
+    "spid_cd": "4GG",
+    "pmcCode": "774",
+    "truePmcCode": "774",
+    "shortName": "hilton-honors-ascend",
+    "cardDetailShortName": "hilton-honors-ascend",
+    "assetShortName": "hilton-honors-ascend",
+    "cardHeadline": "Hilton Honors Ascend Card",
+    "filter": {
+      "type": "credit",
+      "partners": "hilton-honors",
+      "rewards": [
+        "hotel-rewards",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "hilton-honors",
+      "rewards",
+      "hotel",
+      "travel-rewards",
+      "annual-fee",
+      "hotel-rewards",
+      "no-foreign-transaction-fee"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "hilton-honors-ascend-credit-card",
+    "productName": "hilton-honors-ascend-credit-card",
+    "UPGD_ELIG_PMCS": [
+      "1130"
+    ],
+    "similarCards": [
+      "117",
+      "117:72S",
+      "1130",
+      "1130:72U"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "1130",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Hilton Honors Ascend Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/hilton-honors-ascend-credit-card/36182-10-0?pmccode=774",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/HiltonAscend/25330-10-0?pmccode=774"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Hilton Honors Ascend Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/hilton-honors-ascend-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/HiltonAscend/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/hilton-honors-ascend-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/HiltonAscend/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "familyId": "paris",
+    "rates": {
+      "header": "APR",
+      "text": "17.24% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 26.24% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "HiltonAscend",
+    "cardTitle": "Hilton Honors Ascend Card",
+    "dtwHeadline": "Apply for your special Hilton Honors Ascend Card offer from American Express.",
+    "dtwBenefitHeadline": "Earn More Points, Go More Places.",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "More Points in More Places",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$ 95<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-ascend.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/large/hilton-honors-surpass-card-heroImage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-1x/hilton-honors-surpass-card-heroImage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-2x/hilton-honors-surpass-card-heroImage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-1x/hilton-honors-surpass-card-heroImage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-2x/hilton-honors-surpass-card-heroImage_2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "500"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36205",
+    "SUP_DEF_NPA": "36182",
+    "iaOverlay": {
+      "72T": {
+        "shortName": "hilton-honors-ascend-credit-card",
+        "cardDetailShortName": "hilton-honors-ascend-credit-card",
+        "assetShortName": "hilton-honors-ascend",
+        "familyId": "halifax",
+        "pmcCode": "774:72T",
+        "XSELL_DEF_NPA": null,
+        "UPGD_DEF_NPA": "36195",
+        "SUP_DEF_NPA": "36180",
+        "UPGD_ELIG_PMCS": [
+          "1130:72U"
+        ],
+        "UPGD_ELIG_PIDS": [
+          "500:72U"
+        ],
+        "requestUpgradePMC": "1130:72U"
+      }
+    },
+    "highlights": {
+      "reward": {
+        "header": "EARN 12X HILTON HONORS BONUS POINTS",
+        "toutId": "12HHonorsBonusPoints",
+        "description": "for each dollar of eligible purchases charged on your Card directly with a participating hotel or resort within the Hilton Portfolio.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "shopping": {
+        "header": "Did Your Warranty Run Out&#63;<sup>&#9830</sup>",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer&#39;s warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer&#39;s warranty of 5 years or less.<sup>1</sup><br/><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to &#36;10,000 per item and &#36;50,000 per calendar year."
+      },
+      "featured": {
+        "header": "COMPLIMENTARY GOLD STATUS",
+        "toutId": "ComplimentaryGold",
+        "description": "Enjoy complimentary Hilton Honors Gold status with your Hilton Honors Ascend Card.<sup>&#8225;</sup> Plus, spend $40,000 on eligible purchases on your Card in a calendar year and you can earn Hilton Honors Diamond status through the end of the next calendar year.<sup>&#8225;</sup>"
+      },
+      "travel": {
+        "header": "COMPLIMENTARY GOLD STATUS",
+        "toutId": "ComplimentaryGold",
+        "description": "Enjoy complimentary Hilton Honors Gold status with your Hilton Honors Ascend Card.<sup>&#8225;</sup> Plus, spend $40,000 on eligible purchases on your Card in a calendar year and you can earn Hilton Honors Diamond status through the end of the next calendar year.<sup>&#8225;</sup>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "for each dollar of eligible purchases charged on your Card directly with a participating hotel or resort within the Hilton Portfolio.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "EARN 12X HILTON HONORS BONUS POINTS",
+        "order": 1,
+        "toutId": "12HHonorsBonusPoints"
+      },
+      {
+        "description": "for each dollar of eligible purchases on your Card at U.S. restaurants, at U.S. supermarkets, and at U.S. gas stations.<sup>&#8225;</sup>",
+        "header": "EARN 6X HILTON HONORS BONUS POINTS",
+        "order": 2,
+        "toutId": "6HHonorsBonusPoints"
+      },
+      {
+        "description": "on all other eligible purchases.<sup>&#8225;</sup>",
+        "header": "EARN 3X HILTON HONORS BONUS POINTS",
+        "order": 3,
+        "toutId": "3HHonorsBonusPoints"
+      },
+      {
+        "description": "Enjoy complimentary Gold status with your Hilton Honors Ascend Card.<sup>&#8225;</sup>",
+        "header": "Complimentary Gold Status",
+        "order": 4,
+        "toutId": "ComplimentaryGold"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "<span class=\"flag-new\">NEW WELCOME OFFER</span><br/>Earn up to 100,000 Hilton Honors Bonus Points",
+      "description": "Earn 75,000 Hilton Honors Bonus Points after you spend $2,000 or more in purchases with your new Card within the first 3 months of Card Membership and an additional 25,000 Hilton Honors Bonus Points after you make an additional $1,000 in purchases with your new Card within your first 6 months.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A00000KMEJ",
+    "iacode": "NX6",
+    "productId": "024",
+    "expiry_dt": "2019-01-04",
+    "spid_cd": "4GG",
+    "pmcCode": "113",
+    "truePmcCode": "113",
+    "shortName": "delta-skymiles",
+    "cardDetailShortName": "delta-skymiles",
+    "assetShortName": "delta-skymiles",
+    "cardHeadline": "Gold Delta SkyMiles<sup>&#174;</sup> Credit Card",
+    "filter": {
+      "type": "credit",
+      "partners": "delta-skymiles",
+      "rewards": [
+        "airline-rewards",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "no-foreign-transaction-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "delta-skymiles",
+      "rewards",
+      "airline",
+      "travel-rewards",
+      "annual-fee",
+      "no-foreign-transaction-fee",
+      "airline-miles"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "delta-gold-credit-card",
+    "productName": "delta-gold-credit-card",
+    "UPGD_ELIG_PMCS": [
+      "106",
+      "142"
+    ],
+    "similarCards": [
+      "142",
+      "106"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "142",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Gold Delta SkyMiles<sup>&#174;</sup> Credit Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/delta-gold-credit-card/36182-10-0?pmccode=113",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/DeltaGold/25330-10-0?pmccode=113"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Gold Delta SkyMiles<sup>&#174;</sup> Credit Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/delta-gold-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaGold/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/delta-gold-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaGold/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "17.24% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 26.24% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "DeltaGold",
+    "cardTitle": "American Express Gold Delta Skymiles",
+    "dtwHeadline": "Apply for your special Gold Delta SkyMiles<sup>&#174;</sup> Credit Card offer from American Express.",
+    "dtwBenefitHeadline": "Elevate your travel experience with benefits that include:",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Earn more, go further",
+    "benefitsHeadline": "",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$0 intro annual fee for the first year, then $95.<sup>†</sup><sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/gold-delta-skymiles.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/large/gold-delta-skymiles-credit-card-heroImage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-1x/gold-delta-skymiles-credit-card-heroImage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-2x/gold-delta-skymiles-credit-card-heroImage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-1x/gold-delta-skymiles-credit-card-heroImage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-2x/gold-delta-skymiles-credit-card-heroImage_2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "037",
+      "036"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36202",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "shopping": {
+        "header": "Did Your Warranty Run Out?",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer&#39;s warranty runs out&#44; something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>&#44; the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer&#39;s warranty of 5 years or less.<sup>1</sup><br><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to &#36;10&#44;000 per item and &#36;50&#44;000 per calendar year."
+      },
+      "travel": {
+        "header": "Discounted Delta Sky Club<sup>&#174;</sup> Access",
+        "toutId": "DeltaSkyClubAccess",
+        "description": "You and up to two traveling companions can enjoy snacks and beverages, Wi&#45;Fi access, satellite TV, newspapers and magazines, personalized flight assistance, private restrooms and more at Delta Sky Club<sup>&#174;</sup> for a discounted fee of $29 per person.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "featured": {
+        "header": "No Foreign Transaction Fees<sup>&#164;</sup>",
+        "toutId": "NoFXFeesIcon",
+        "description": "Regardless of where you are or what you pay for with the Gold Delta SkyMiles<sup>&#174;</sup> Credit Card, there are no foreign transaction fees from American Express.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span><sup>&#164;</sup>"
+      },
+      "reward": {
+        "header": "Earn Miles",
+        "toutId": "EarnMiles",
+        "description": "Earn 1 mile per dollar for purchases you make with your Card&#151; from everyday purchases on things like gas, groceries, and<br/>restaurants, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners. <sup>&#8225;</sup> <br/>Plus, there&#39;s no limit to how much you can earn. <sup>&#8225;</sup>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "Earn 1 mile per dollar for purchases you make with your Card&#151; from everyday purchases on things like gas, groceries, and<br/>restaurants, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners. <sup>&#8225;</sup> <br/>Plus, there&#39;s no limit to how much you can earn. <sup>&#8225;</sup>",
+        "header": "DELTA SKYMILES &#150; 1X",
+        "order": 1,
+        "toutId": "EarnMiles"
+      },
+      {
+        "description": "You can check your first bag for free and save up to $50 on a round&#45;trip Delta flight.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "First Checked Bag Free",
+        "order": 2,
+        "toutId": "1stCheckedBagFree"
+      },
+      {
+        "description": "Find room for your carry&#45;on bag and settle into your seat sooner. Priority Boarding allows you to board the plane sooner, stow your bag and settle in your seat before takeoff.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "Priority Boarding",
+        "order": 3,
+        "toutId": "PriorityBoarding"
+      },
+      {
+        "description": "Regardless of where you are or what you pay for with the Gold Delta SkyMiles<sup>&#174;</sup> Credit Card, there are no foreign transaction fees from American Express.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span><sup>&#164;</sup>",
+        "header": "No Foreign Transaction Fees<sup>&#164;</sup>",
+        "order": 4,
+        "toutId": "NoFXFees"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Earn 30,000 Bonus Miles",
+      "description": "after you make $1,000 in purchases on your new Card within your first 3 months&lt;sup&gt;&amp;#8224;&lt;/sup&gt; and a $50 statement credit after you make a Delta purchase with your new Card within your first 3 months.&lt;sup&gt;&amp;#8224;&lt;/sup&gt;"
+    }
+  },
+  {
+    "sourcecode": "A00000KU0H",
+    "iacode": "JMQ",
+    "productId": "037",
+    "expiry_dt": "2019-01-30",
+    "spid_cd": "4GG",
+    "pmcCode": "106",
+    "truePmcCode": "106",
+    "shortName": "delta-reserve",
+    "cardDetailShortName": "delta-reserve",
+    "assetShortName": "delta-reserve",
+    "cardHeadline": "Delta Reserve<sup>&#174;</sup> Credit Card",
+    "filter": {
+      "type": "credit",
+      "partners": "delta-skymiles",
+      "rewards": [
+        "airline-rewards",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "no-foreign-transaction-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "delta-skymiles",
+      "rewards",
+      "airline",
+      "travel-rewards",
+      "annual-fee",
+      "no-foreign-transaction-fee",
+      "airline-miles"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "delta-reserve-credit-card",
+    "productName": "delta-reserve-credit-card",
+    "UPGD_ELIG_PMCS": [],
+    "similarCards": [
+      "113",
+      "142"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Delta Reserve<sup>&#174;</sup> Credit Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/delta-reserve-credit-card/36182-10-0?pmccode=106",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/DeltaReserve/25330-10-0?pmccode=106"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Delta Reserve<sup>&#174;</sup> Credit Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/delta-reserve-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaReserve/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/delta-reserve-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaReserve/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "17.24% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 26.24% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "DeltaReserve",
+    "cardTitle": "Delta Reserve Credit Card",
+    "dtwHeadline": "<div class=\"spinner\"></div>",
+    "dtwBenefitHeadline": "",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Earn more, go further",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$450<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-reserve.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/large/delta-reserve-credit-card-heroImage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-1x/delta-reserve-credit-card-heroImage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-2x/delta-reserve-credit-card-heroImage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-1x/delta-reserve-credit-card-heroImage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-2x/delta-reserve-credit-card-heroImage_2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36204",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "shopping": {
+        "header": "Did Your Warranty Run Out&#63;",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer's warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer's warranty of 5 years or less.<sup>2</sup><br><span class=\"breakLine\"></span><sup>2</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "reward": {
+        "header": "Earn miles and MQMs with Miles Boost<sup>&#174;</sup>",
+        "toutId": "MQMMiles",
+        "description": "Earn 15,000 Medallion<sup>&#174;</sup> Qualification Miles &#40;MQMs&#41; and 15,000 bonus miles after you spend &#36;30,000 on purchases on your Delta Reserve Credit Card in a calendar year. Earn an additional 15,000 MQMs and an additional 15,000 bonus miles after you spend &#36;60,000 on purchases on your Delta Reserve Card in a calendar year.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "featured": {
+        "header": "ANNUAL MILES BOOST<sup>&#174;</sup>",
+        "toutId": "EarnMiles",
+        "description": "Earn 15,000 Medallion<sup>&#174;</sup> Qualification Miles (MQMs) and 15,000 bonus miles after you reach $30,000 in eligible purchases <b>on your Card</b> in the calendar year.<sup>&#8225;</sup>"
+      },
+      "travel": {
+        "header": "Delta Reserve Companion Certificate",
+        "toutId": "CompanionCertificate",
+        "description": "Receive a Domestic First Class, Delta Comfort&#43;<sup>&#174;</sup> or Main Cabin round&#45;trip companion certificate each year upon renewal of your Card.<sup>&#8225;</sup><sup>1</sup><span class=\"breakLine\"></span><sup>1</sup>Payment of the government imposed taxes and fees of no more than &#36;75 for roundtrip domestic flights &#40;for itineraries with up to four flight segments&#41; is required. Baggage charges and other restrictions apply. See terms and conditions for details."
+      }
+    },
+    "benefits": [
+      {
+        "description": "Earn 1 mile per dollar for purchases you make with your Card&#8212; from everyday purchases on things like gas, groceries, and restaurants, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners.<sup>&#8225;</sup><br/>Plus, there&#39;s no limit to how much you can earn.<sup>&#8225;</sup>",
+        "header": "Take Flight with the Delta SkyMiles<sup>&#174;</sup> Program<br/>Pile up the miles",
+        "order": 1,
+        "toutId": "DeltaSkyMiles"
+      },
+      {
+        "description": "Get complimentary access to Delta Sky Club<sup>&#174;</sup> and a discounted rate of $29 per guest for up to two guests when flying on Delta. Enjoy snacks and beverages, Wi&#45;Fi access, satellite TV, personalized flight assistance, private restrooms and more at the Club.<sup>&#8225;</sup>",
+        "header": "COMPLIMENTARY DELTA SKY CLUB<sup>&#174;</sup> ACCESS<br/>SIT BACK AND RELAX BEFORE TAKE OFF",
+        "order": 2,
+        "toutId": "DeltaSkyClubAccess"
+      },
+      {
+        "description": "Earn 15,000 Medallion<sup>&#174;</sup> Qualification Miles &#40;MQMs&#41; and 15,000 bonus miles after you spend &#36;30,000 on purchases on your Delta Reserve Credit Card in a calendar year. Earn an additional 15,000 MQMs and an additional 15,000 bonus miles after you spend &#36;60,000 on purchases on your Delta Reserve Card in a calendar year.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "Earn miles and MQMs with Miles Boost<sup>&#174;</sup>",
+        "order": 3,
+        "toutId": "MQMMiles"
+      },
+      {
+        "description": "<b>TAKING CUSTOMER SERVICE TO THE NEXT LEVEL.</b><br>Our Concierge staff is available to you day or night as a personal resource for many different aspects of your life. Whether you need to select a restaurant and arrange the details of an upcoming special event or if you want expert advice selecting just the right gift, you can rely on Concierge to coordinate and take care of your requests, big and small.<sup>&#8225;</sup><span class=\"breakLine\"></span>Contact Concierge: 800-525-3355 (Option 2) Collect (for International Calls): 617-622-6756",
+        "header": "Concierge Service",
+        "order": 4,
+        "toutId": "ConciergeService"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Earn 10,000 Medallion<sup>&#174;</sup> Qualification Miles &#40;MQMs&#41;",
+      "description": "Earn 10,000 Medallion&lt;sup&gt;&amp;#174;&lt;/sup&gt; Qualification Miles &amp;#40;MQMs&amp;#41; and 40,000 bonus miles after you spend $3,000 in purchases on your new Card in your first 3 months.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A0000EUNNA",
+    "iacode": "HI6",
+    "productId": "036",
+    "expiry_dt": "2019-05-08",
+    "spid_cd": "4GG",
+    "pmcCode": "142",
+    "truePmcCode": "142",
+    "shortName": "platinum-delta-skymiles",
+    "cardDetailShortName": "platinum-delta-skymiles",
+    "assetShortName": "platinum-delta-skymiles",
+    "cardHeadline": "Platinum Delta SkyMiles<sup>&#174;</sup> Credit Card",
+    "filter": {
+      "type": "credit",
+      "partners": "delta-skymiles",
+      "rewards": [
+        "airline-rewards",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee",
+        "no-foreign-transaction-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "delta-skymiles",
+      "rewards",
+      "airline",
+      "travel-rewards",
+      "annual-fee",
+      "no-foreign-transaction-fee",
+      "airline-miles"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "platinum-delta-skymiles-credit-card",
+    "productName": "platinum-delta-skymiles-credit-card",
+    "UPGD_ELIG_PMCS": [
+      "106"
+    ],
+    "similarCards": [
+      "113",
+      "106"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "106",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Platinum Delta SkyMiles<sup>&#174;</sup> Credit Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/platinum-delta-skymiles-credit-card/36182-10-0?pmccode=142",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/DeltaPlatinum/25330-10-0?pmccode=142"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Platinum Delta SkyMiles<sup>&#174;</sup> Credit Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/platinum-delta-skymiles-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaPlatinum/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/platinum-delta-skymiles-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/DeltaPlatinum/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "APR",
+      "text": "17.24% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 26.24% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "DeltaPlatinum",
+    "cardTitle": "American Express Platinum Delta Skymiles",
+    "dtwHeadline": "Apply for your special Platinum Delta SkyMiles<sup>&#174;</sup> Credit Card offer from American Express.",
+    "dtwBenefitHeadline": "Make your adventures even more rewarding.",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Earn more, go further",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$195<sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-delta-skymiles.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/large/platinum-delta-skymiles-credit-card-heroImage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-1x/platinum-delta-skymiles-credit-card-heroImage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/medium-tablet-2x/platinum-delta-skymiles-credit-card-heroImage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-1x/platinum-delta-skymiles-credit-card-heroImage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/cobrand-products/small-mobile-2x/platinum-delta-skymiles-credit-card-heroImage_2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "037"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36203",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "shopping": {
+        "header": "Did Your Warranty Run Out&#63;",
+        "toutId": "ExtendedWarranty",
+        "description": "Why is it that as soon as a manufacturer's warranty runs out, something always seems to happen&#63; With Extended Warranty<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, the length of your warranty can be matched for up to 1 additional year when you use your American Express<sup>&#174;</sup> Card for eligible purchases that come with an original U.S. manufacturer's warranty of 5 years or less.<sup>1</sup><span class=\"breakLine\"></span><sup>1</sup>Coverage limited to the actual amount charged on your Card for the item up to $10,000 per item and $50,000 per calendar year."
+      },
+      "travel": {
+        "header": "DISCOUNTED DELTA SKY CLUB<sup>&#174;</sup> ACCESS",
+        "toutId": "DeltaSkyClubAccess",
+        "description": "You and up to two traveling companions can enjoy complimentary snacks and beverages, Wi&#45;Fi access, Satellite TV, newspapers and magazines, personalized flight assistance, private restrooms and more for a discounted fee of $29 per person. Drop by any Sky Club<sup>&#174;</sup> next time you&#39;re flying. Just use your Platinum Delta SkyMiles<sup>&#174;</sup> Credit Card from American Express.<span class=\"benefit_footnote_class\"><sup>&#8225;</sup></span>"
+      },
+      "reward": {
+        "header": "Earn Miles",
+        "toutId": "EarnMiles",
+        "description": "Earn 1 mile per dollar for purchases you make with your Card&#151; from everyday purchases on things like gas, groceries, and restaurants, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners.<sup>&#8225;</sup><br/>Plus, there's no limit to how much you can earn.<sup>&#8225;</sup>"
+      },
+      "featured": {
+        "header": "No Foreign Transaction Fees<sup>&#164;</sup>",
+        "toutId": "NoFXFees",
+        "description": "Regardless of where you are or what you pay for with the Platinum Delta SkyMiles<sup>&#174;</sup> Credit Card, there are no foreign transaction fees from American Express.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>&curren;"
+      }
+    },
+    "benefits": [
+      {
+        "description": "Earn 1 mile per dollar for purchases you make with your Card&#151; from everyday purchases on things like gas, groceries, and restaurants, to monthly purchases like your phone bill. Miles are redeemable toward travel on Delta and more than 15 airline partners.<sup>&#8225;</sup><br/>Plus, there's no limit to how much you can earn.<sup>&#8225;</sup>",
+        "header": "Earn Miles",
+        "order": 1,
+        "toutId": "EarnMiles"
+      },
+      {
+        "description": "You can check your first bag free on Delta flights.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "First Checked Bag Free",
+        "order": 2,
+        "toutId": "1stCheckedBagFree"
+      },
+      {
+        "description": "Regardless of where you are or what you pay for with the Platinum Delta SkyMiles<sup>&#174;</sup> Credit Card, there are no foreign transaction fees from American Express.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>&curren;",
+        "header": "No Foreign Transaction Fees<sup>&#164;</sup>",
+        "order": 3,
+        "toutId": "NoFXSymbols"
+      },
+      {
+        "description": "Your Card gives you the option to carry a balance with interest or pay in full each month. So, whether you&#39;re managing your monthly expenses or making a large purchase, you can have the payment flexibility you need while continuing to earn rewards.",
+        "header": "Payment Flexibility",
+        "order": 4,
+        "toutId": "PaymentFlex"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Earn 5,000 Medallion<sup>&#174;</sup> Qualification Miles &#40;MQMs&#41;",
+      "description": "and 35,000 bonus miles after you spend $1,000 in purchases on your new Card in your first 3 months.&lt;sup&gt;&amp;#8224;&lt;/sup&gt;&lt;br/&gt;In addition, earn a $100 statement credit after you make a Delta purchase with your new Card within your first 3 months.&lt;sup&gt;&amp;#8224;&lt;/sup&gt;"
+    }
+  },
+  {
+    "sourcecode": "A00000N94W",
+    "iacode": "7X3",
+    "productId": "500",
+    "expiry_dt": "2019-07-17",
+    "spid_cd": "4GG",
+    "pmcCode": "1130",
+    "truePmcCode": "1130",
+    "shortName": "hilton-honors-aspire",
+    "cardDetailShortName": "hilton-honors-aspire",
+    "assetShortName": "hilton-honors-aspire",
+    "cardHeadline": "Hilton Honors Aspire Card",
+    "filter": {
+      "type": "credit",
+      "partners": "hilton-honors",
+      "rewards": [
+        "hotel-rewards",
+        "travel-rewards"
+      ],
+      "rateFee": [
+        "annual-fee"
+      ]
+    },
+    "filters": [
+      "credit",
+      "partner",
+      "hilton-honors",
+      "rewards",
+      "hotel",
+      "travel-rewards",
+      "annual-fee",
+      "hotel-rewards",
+      "no-foreign-transaction-fee"
+    ],
+    "regzBoxOffsiteEEP": [
+      "28000",
+      "28004",
+      "28005",
+      "28009",
+      "28011",
+      "40513",
+      "40515",
+      "40521"
+    ],
+    "suppProductName": "hilton-honors-aspire-credit-card",
+    "productName": "hilton-honors-aspire-credit-card",
+    "UPGD_ELIG_PMCS": [],
+    "similarCards": [
+      "117",
+      "117:72S",
+      "774",
+      "774:72T"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the Hilton Honors Aspire Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/hilton-honors-aspire-credit-card/36182-10-0?pmccode=1130",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/HiltonAspire/25330-10-0?pmccode=1130"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the Hilton Honors Aspire Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/hilton-honors-aspire-credit-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/HiltonAspire/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/hilton-honors-aspire-credit-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/HiltonAspire/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "familyId": "paris",
+    "rates": {
+      "header": "APR",
+      "text": "17.24% <span style='font-size:13px;font-weight:normal;' class='cl_to'>to</span> 26.24% variable APR on purchases.<sup>¤</sup>"
+    },
+    "cardFlags": [],
+    "dtmProductName": "HiltonAspire",
+    "cardTitle": "American Express Hilton Honors Aspire",
+    "dtwHeadline": "<div class=\"spinner\"></div>",
+    "dtwBenefitHeadline": "",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "More Points in More Places",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$450 <sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-aspire.png"
+    },
+    "UPGD_ELIG_PIDS": [],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36182",
+    "SUP_DEF_NPA": "36182",
+    "iaOverlay": {
+      "72U": {
+        "shortName": "hilton-honors-aspire-credit-card",
+        "cardDetailShortName": "hilton-honors-aspire-credit-card",
+        "assetShortName": "hilton-honors-aspire",
+        "familyId": "halifax",
+        "pmcCode": "1130:72U",
+        "XSELL_DEF_NPA": null,
+        "UPGD_DEF_NPA": "36195",
+        "SUP_DEF_NPA": "36188"
+      }
+    },
+    "highlights": {
+      "shopping": {
+        "header": "Concierge",
+        "toutId": "Concierge",
+        "description": "Let us take care of it.<br/>Concierge is a complimentary service, available day or night. Whether you need expert advice to make arrangements and reservations for a special anniversary dinner, tickets for a Broadway show, or the perfect gift, you can rely on Concierge to help take care of your requests, large and small.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "travel": {
+        "header": "WEEKEND NIGHT REWARDS",
+        "toutId": "2Nights",
+        "description": "Enjoy one weekend night reward with your new Hilton Honors American Express Aspire Card and every year after renewal.<br/><br/>Plus, earn an additional night after you spend $60,000 on purchases on your Card in a calendar year.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "featured": {
+        "header": "COMPLIMENTARY DIAMOND STATUS",
+        "toutId": "ComplimentaryDiamond",
+        "description": "With your Hilton Honors Aspire Card, you can enjoy complimentary Diamond status which includes even more perks from Hilton, such as 100% extra Bonus Points on all Base Points you earn, room upgrades, and more.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "reward": {
+        "header": "EARN 14X HILTON HONORS BONUS POINTS",
+        "toutId": "14XHHonorsPoints",
+        "description": "when you make eligible purchases on your Card at participating hotels or resorts within the Hilton Portfolio.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "when you make eligible purchases on your Card at participating hotels or resorts within the Hilton Portfolio.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "EARN 14X HILTON HONORS BONUS POINTS",
+        "order": 1,
+        "toutId": "14XHHonorsPoints"
+      },
+      {
+        "description": "on eligible purchases on your Card for:<br/>&#149; Flights booked directly with airlines or amextravel.com<br/>&#149; Car rentals booked directly from select car rental companies<br/>&#149; U.S. restaurants.<span class=\"benefit_footnote_class\"><sup>&#8225;</sup></span>",
+        "header": "EARN 7X HILTON HONORS BONUS POINTS",
+        "order": 2,
+        "toutId": "7XHHonorsPoints"
+      },
+      {
+        "description": "on all other eligible purchases.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "EARN 3X HILTON HONORS BONUS POINTS",
+        "order": 3,
+        "toutId": "3XUpPoints"
+      },
+      {
+        "description": "With your Hilton Honors Aspire Card, you can enjoy complimentary Diamond status which includes even more perks from Hilton, such as 100% extra Bonus Points on all Base Points you earn, room upgrades, and more.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "COMPLIMENTARY DIAMOND STATUS",
+        "order": 4,
+        "toutId": "ComplimentaryDiamond"
+      },
+      {
+        "description": "Enjoy one weekend night reward with your new Hilton Honors American Express Aspire Card and every year after renewal.<br/><br/>Plus, earn an additional night after you spend $60,000 on purchases on your Card in a calendar year.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "WEEKEND NIGHT REWARDS",
+        "order": 5,
+        "toutId": "2Nights"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "<span class=\"flag-new\">NEW CARD</span><br/><b>Earn 100,000 Hilton Honors Bonus Points</b>",
+      "description": "after you spend $4,000 in purchases on the Card within your first 3 months of Card Membership.<span class=\"offer_footnote_class\"><sup>&amp;#8224</sup></span>"
+    }
+  },
+  {
+    "sourcecode": "A00000K0N9",
+    "iacode": "F2A",
+    "productId": "070",
+    "expiry_dt": "2018-10-03",
+    "spid_cd": "4GG",
+    "pmcCode": "145",
+    "truePmcCode": "145",
+    "shortName": "green",
+    "cardDetailShortName": "green",
+    "assetShortName": "green",
+    "cardHeadline": "American Express<sup>&#174;</sup> Green Card",
+    "filter": {
+      "type": "charge",
+      "partners": "",
+      "rewards": [
+        "reward-points"
+      ],
+      "rateFee": [
+        "annual-fee"
+      ]
+    },
+    "filters": [
+      "charge",
+      "rewards",
+      "reward-points",
+      "annual-fee"
+    ],
+    "regzBoxOffsiteEEP": [],
+    "suppProductName": "green-charge-card",
+    "productName": "preferred-rewards-green-charge-card",
+    "UPGD_ELIG_PMCS": [
+      "137",
+      "784"
+    ],
+    "similarCards": [
+      "937",
+      "784",
+      "796"
+    ],
+    "active": true,
+    "decommissioned": false,
+    "requestUpgradePMC": "137",
+    "entryEEP": "36182",
+    "cardType": "XSEL",
+    "applyNowLink": {
+      "title": "Apply Now for the American Express<sup>&#174;</sup> Green Card",
+      "link": "Apply Now",
+      "dtmTag": "Apply",
+      "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/preferred-rewards-green-charge-card/36182-10-0?pmccode=145",
+      "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/Green/25330-10-0?pmccode=145"
+    },
+    "viewDetailsLink": {
+      "title": "View Details for the American Express<sup>&#174;</sup> Green Card",
+      "link": "View Card Details"
+    },
+    "tncLinks": {
+      "offerTerms": {
+        "title": "Offer & Benefit Terms",
+        "link": "♦ ‡ † Offer & Benefit Terms",
+        "dtmTag": "OfferAndBenefitTerms",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/preferred-rewards-green-charge-card/36182-11-0/#offer-terms",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/Green/25330-11-0/#offer-terms"
+      },
+      "ratesFees": {
+        "title": "Rates and Fees",
+        "link": "¤ Rates and Fees",
+        "dtmTag": "RatesAndFees",
+        "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/preferred-rewards-green-charge-card/36182-11-0/#FeeTable",
+        "DXP_url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/member/terms/Green/25330-11-0/#FeeTable"
+      }
+    },
+    "sortPriority": 5,
+    "rates": {
+      "header": "No Interest Charges",
+      "text": "No interest charges because you pay your balance in full each month.‡¤"
+    },
+    "cardFlags": [],
+    "aliasProductId": [
+      "073"
+    ],
+    "dtmProductName": "Green",
+    "cardTitle": "American Express Green Card",
+    "dtwHeadline": "Apply for your special American Express<sup>&#174;</sup> Green Card offer.",
+    "dtwBenefitHeadline": "See what Green Card Membership can do for you.",
+    "dtwBenefitSubHeadline": "",
+    "keyFeaturesHeadline": "Reward your life with the confidence of Green.",
+    "superHighlightImgAlt": "Get more when you go shopping with the American Express&reg; Green Card and earn rewards points on everyday and online purchases.",
+    "fee": {
+      "header": "Annual Fee",
+      "text": "$0 intro annual fee for the first year, then $95<sup>†</sup><sup>¤</sup>"
+    },
+    "appAssets": {
+      "cardArt": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/green-card.png",
+      "heroCardArt": {
+        "desktop": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/l-desktop/green-card-heroimage.jpg",
+        "tablet": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/1x/green-card-heroimage.jpg",
+        "tablet2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/m-tablet/2x/green-card-heroimage-2x.jpg",
+        "mobile": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/1x/green-card-heroimage.jpg",
+        "mobile2X": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/charge-products/hero-images/s-mobile/2x/green-card-heroimage-2x.jpg"
+      }
+    },
+    "UPGD_ELIG_PIDS": [
+      "017",
+      "078"
+    ],
+    "XSELL_DEF_NPA": "36182",
+    "UPGD_DEF_NPA": "36182",
+    "SUP_DEF_NPA": "36182",
+    "highlights": {
+      "featured": {
+        "header": "Card Member Services",
+        "toutId": "CardMemberServices",
+        "description": "<b>Whenever you need us, we&#39;re here.</b><br> Our Member Services team will ensure you are taken care of. From lost Card replacement to statement questions, we are available to help 24&#47;7."
+      },
+      "shopping": {
+        "header": "Purchase Protection<sup>&#9830;</sup>",
+        "toutId": "PurchaseProtection",
+        "description": "Shop with added confidence and Purchase Protection<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, which can help protect eligible purchases made with the Card against accidental damage and theft for up to 90 days from the date of purchase. Please read important exclusions and restrictions."
+      },
+      "reward": {
+        "header": "Membership Rewards<sup>&#174;</sup> Program",
+        "toutId": "MRPaywithPoints",
+        "description": "For every eligible dollar you spend on purchases, you can earn one Membership Rewards<sup>&#174;</sup> point that can be used towards travel, dining, shopping, and merchandise. Points have no expiration date and there&#39;s no limit to the amount of points you can earn. To learn more about the program, please visit the <a href=\"http://www.membershiprewards.com/pointsinfo\" target=\"_blank\"><u>Membership Rewards site</u></a>.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      },
+      "travel": {
+        "header": "Double Membership Rewards<sup>&#174;</sup> Points",
+        "toutId": "2XPoints",
+        "description": "Earn double Membership Rewards points at <a href=\"https://www.amextravel.com\" target=\"_blank\">amextravel.com</a>. Terms apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>"
+      }
+    },
+    "benefits": [
+      {
+        "description": "Earn double Membership Rewards points at <a href=\"https://www.amextravel.com\" target=\"_blank\">amextravel.com</a>. Terms apply.<span class=\"benefit_footnote_class\"><sup>&#8225</sup></span>",
+        "header": "Double Membership Rewards<sup>&#174;</sup> Points",
+        "order": 1,
+        "toutId": "2XPoints"
+      },
+      {
+        "description": "for every eligible dollar you spend.<sup>&#8225;</sup>",
+        "header": "1X Points",
+        "order": 2,
+        "toutId": "1XPoints"
+      },
+      {
+        "description": "Shop with added confidence and Purchase Protection<span class=\"assurance_footnote_class\"><sup>&#9830</sup></span>, which can help protect eligible purchases made with the Card against accidental damage and theft for up to 90 days from the date of purchase. Please read important exclusions and restrictions.",
+        "header": "Purchase Protection<sup>&#9830;</sup>",
+        "order": 3,
+        "toutId": "PurchaseProtection"
+      }
+    ],
+    "welcomeOffer": {
+      "header": "Make Life More Rewarding",
+      "description": "Earn 2X Membership Rewards&lt;sup&gt;&amp;#174;&lt;/sup&gt; points for each dollar you spend on eligible purchases at amextravel.com.&lt;span class=&quot;benefit_footnote_class&quot;&gt;&lt;sup&gt;&amp;#8225;&lt;/sup&gt;&lt;/span&gt;&lt;br/&gt;Earn 1X points for every eligible dollar you spend.&lt;span class=&quot;benefit_footnote_class&quot;&gt;&lt;sup&gt;&amp;#8225;&lt;/sup&gt;&lt;/span&gt;"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+#radio-cntr {
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid red; */
+  align-items: start;
+}
+.radio-field {
+  display: flex;
+  align-items: center;
+}
